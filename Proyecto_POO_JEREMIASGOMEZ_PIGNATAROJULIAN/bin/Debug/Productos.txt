@@ -1,0 +1,2 @@
+Nombre;Rubro;Precio;Insumo usados
+Galletitas Saladas;Snacks;700;Harina de trigo|0,8|KILOGRAMOS

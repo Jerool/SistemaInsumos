@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CA77AC68-A864-4769-BEC5-8BA531F03E44}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN</RootNamespace>
+    <AssemblyName>Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.6.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.6.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Numerics.5.0.0\lib\net461\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.4.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\CLSConvertidor.cs" />
+    <Compile Include="Clases\CLSEmpleadocs.cs" />
+    <Compile Include="Clases\CLSGestionararchivos.cs" />
+    <Compile Include="Clases\CLSInsumoproducto.cs" />
+    <Compile Include="Clases\CLSInsumos.cs" />
+    <Compile Include="Clases\CLSPersona.cs" />
+    <Compile Include="Clases\CLSProducto.cs" />
+    <Compile Include="Clases\CLSProveedor.cs" />
+    <Compile Include="Formularios\FRMInicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMInicioSesion.Designer.cs">
+      <DependentUpon>FRMInicioSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMPrincipal.Designer.cs">
+      <DependentUpon>FRMPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMProducto.Designer.cs">
+      <DependentUpon>FRMProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMProveedor.Designer.cs">
+      <DependentUpon>FRMProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMRegistrarinsumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMRegistrarinsumo.Designer.cs">
+      <DependentUpon>FRMRegistrarinsumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMRegistrarse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMRegistrarse.Designer.cs">
+      <DependentUpon>FRMRegistrarse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMVerinsumos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMVerinsumos.Designer.cs">
+      <DependentUpon>FRMVerinsumos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMVerProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMVerProductos.Designer.cs">
+      <DependentUpon>FRMVerProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMVerproveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMVerproveedores.Designer.cs">
+      <DependentUpon>FRMVerproveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMUsuario.Designer.cs">
+      <DependentUpon>FRMUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\FRMInicioSesion.resx">
+      <DependentUpon>FRMInicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMPrincipal.resx">
+      <DependentUpon>FRMPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMProducto.resx">
+      <DependentUpon>FRMProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMProveedor.resx">
+      <DependentUpon>FRMProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMRegistrarinsumo.resx">
+      <DependentUpon>FRMRegistrarinsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMRegistrarse.resx">
+      <DependentUpon>FRMRegistrarse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMVerinsumos.resx">
+      <DependentUpon>FRMVerinsumos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMVerProductos.resx">
+      <DependentUpon>FRMVerProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMVerproveedores.resx">
+      <DependentUpon>FRMVerproveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMUsuario.resx">
+      <DependentUpon>FRMUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
