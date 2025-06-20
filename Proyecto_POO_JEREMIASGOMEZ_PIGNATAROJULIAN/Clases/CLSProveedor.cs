@@ -41,25 +41,32 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             set { _Telefono = value; }
         }
 
+        private string _Contraseña;
 
-        public CLSProveedor(string nombre, double cuit, string direccion, string telefono) 
+        public string Contraseña
+        {
+            get { return _Contraseña; }
+            set { _Contraseña = value; }
+        }
+
+
+
+        public CLSProveedor(string nombre, double cuit, string direccion, string telefono, string contraseña) 
         {
             Nombre = nombre;
             CUIT = cuit;
             Direccion = direccion;
             Telefono = telefono;
-
+            Contraseña = contraseña;
         }
 
-        internal void registrarproveedor(string text1, decimal value, string text2, string txtTelefono)
+        internal void RegistrarProveedor(string text1, decimal value, string text2, string txtTelefono, string contraseña)
         {
             string path = "Proveedores.txt";
-            
-           
             using (FileStream fs = new FileStream(path, FileMode.Append, FileAccess.Write))
             using (StreamWriter sw = new StreamWriter(fs))
             {
-                sw.WriteLine(Nombre + ";" + CUIT + ";" + Direccion + ";" + Telefono);
+                sw.WriteLine(Nombre + ";" + CUIT + ";" + Direccion + ";" + Telefono + ";" + Contraseña);
             }
         }
 

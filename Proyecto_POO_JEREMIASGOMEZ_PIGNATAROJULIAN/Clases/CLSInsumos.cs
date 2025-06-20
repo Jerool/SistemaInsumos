@@ -91,7 +91,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			return $"{Nombre} - {Proveedor}";
 		}
 
-		public string Paraarchivostring()
+		public string ArchivoString()
 		{
             return $"{Nombre};{Unidad};{Cantidad};{Calidad};{Proporcion};{Proveedor};{Responsable}";
         }

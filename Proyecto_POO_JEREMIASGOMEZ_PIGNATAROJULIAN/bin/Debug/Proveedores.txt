@@ -1,5 +1,5 @@
-Nombre;CUIT;Direccion;telefono
-Alimentos del sur;30712345678;Av.Belgrano 1050 BA;1144557788
-agro natural SRL;30701234567;Ruta 8 km 50,Pilar;1133442233
-Quimica Central;33662233445;Cordoba 3125,Rosario;0341422552
-Sabor Andino;30889977662;Av.San Martin 300;0261450993
+Nombre;CUIT;Direccion;telefono;Contraseña
+Alimentos del sur;30712345678;Av.Belgrano 1050 BA;1144557788;123
+agro natural SRL;30701234567;Ruta 8 km 50,Pilar;1133442233;123
+Quimica Central;33662233445;Cordoba 3125,Rosario;0341422552;123
+Sabor Andino;30889977662;Av.San Martin 300;0261450993;123

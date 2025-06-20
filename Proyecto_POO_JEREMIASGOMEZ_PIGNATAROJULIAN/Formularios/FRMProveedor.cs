@@ -51,9 +51,9 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             }
             else
             {
-                CLSProveedor aux = new CLSProveedor(txtnombre.Text, ((double)numericUpDown1.Value), txtDireccion.Text, txtTelefono.Text);
+                CLSProveedor aux = new CLSProveedor(txtnombre.Text, ((double)numericUpDown1.Value), txtDireccion.Text, txtTelefono.Text,txtContraseña.Text);
                 listaproveedores.Add(aux);
-                aux.registrarproveedor(txtnombre.Text,numericUpDown1.Value,txtDireccion.Text, txtTelefono.Text);
+                aux.RegistrarProveedor(txtnombre.Text,numericUpDown1.Value,txtDireccion.Text, txtTelefono.Text, txtContraseña.Text);
                 MessageBox.Show("Se ha registrado correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 actualizarcampos();
             }

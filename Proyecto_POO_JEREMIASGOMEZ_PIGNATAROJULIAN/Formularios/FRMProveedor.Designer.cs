@@ -38,6 +38,8 @@
             this.txtnombre = new System.Windows.Forms.TextBox();
             this.btnRegistrar = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txtContraseña = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -100,7 +102,7 @@
             // txtTelefono
             // 
             this.txtTelefono.Location = new System.Drawing.Point(476, 247);
-            this.txtTelefono.MaxLength = 10;
+            this.txtTelefono.MaxLength = 20;
             this.txtTelefono.Name = "txtTelefono";
             this.txtTelefono.Size = new System.Drawing.Size(120, 20);
             this.txtTelefono.TabIndex = 10;
@@ -108,7 +110,7 @@
             // txtDireccion
             // 
             this.txtDireccion.Location = new System.Drawing.Point(476, 206);
-            this.txtDireccion.MaxLength = 20;
+            this.txtDireccion.MaxLength = 30;
             this.txtDireccion.Name = "txtDireccion";
             this.txtDireccion.Size = new System.Drawing.Size(120, 20);
             this.txtDireccion.TabIndex = 9;
@@ -127,7 +129,7 @@
             this.btnRegistrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnRegistrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRegistrar.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegistrar.Location = new System.Drawing.Point(426, 314);
+            this.btnRegistrar.Location = new System.Drawing.Point(426, 356);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(170, 42);
             this.btnRegistrar.TabIndex = 16;
@@ -146,12 +148,33 @@
             this.label5.TabIndex = 17;
             this.label5.Text = "Proveedor";
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(383, 291);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(77, 17);
+            this.label6.TabIndex = 19;
+            this.label6.Text = "Contraseña";
+            // 
+            // txtContraseña
+            // 
+            this.txtContraseña.Location = new System.Drawing.Point(476, 291);
+            this.txtContraseña.MaxLength = 20;
+            this.txtContraseña.Name = "txtContraseña";
+            this.txtContraseña.Size = new System.Drawing.Size(120, 20);
+            this.txtContraseña.TabIndex = 18;
+            // 
             // FRMProveedor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(66)))), ((int)(((byte)(82)))));
             this.ClientSize = new System.Drawing.Size(1064, 573);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.txtContraseña);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.btnRegistrar);
             this.Controls.Add(this.label4);
@@ -183,5 +206,7 @@
         private System.Windows.Forms.TextBox txtnombre;
         private System.Windows.Forms.Button btnRegistrar;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox txtContraseña;
     }
 }

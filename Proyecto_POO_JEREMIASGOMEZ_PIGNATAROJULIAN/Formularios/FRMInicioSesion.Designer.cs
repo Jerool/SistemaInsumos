@@ -71,7 +71,7 @@
             this.txtDNI.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDNI.ForeColor = System.Drawing.Color.LightGray;
             this.txtDNI.Location = new System.Drawing.Point(372, 95);
-            this.txtDNI.MaxLength = 8;
+            this.txtDNI.MaxLength = 14;
             this.txtDNI.Name = "txtDNI";
             this.txtDNI.Size = new System.Drawing.Size(371, 20);
             this.txtDNI.TabIndex = 3;

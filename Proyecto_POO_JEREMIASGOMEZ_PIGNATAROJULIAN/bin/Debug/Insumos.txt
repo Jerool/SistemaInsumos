@@ -1,7 +1,8 @@
 NOMBRE;UNIDAD;CANTIDAD;CALIDAD;PROPORCION;PROVEEDORES;RESPONSABLE
-Harina de trigo;KILOGRAMOS;98,2;ALTA;1.0;Alimentos del sur - 30712345678;Julian
+Harina de trigo;KILOGRAMOS;982;ALTA;1.0;Alimentos del sur - 30712345678;Julian
 Aceite vegetal;LITROS;50;MEDIA;0.2;agro natural SRL - 30701234567;Julian
 Azucar Refinada;KILOGRAMOS;70;ALTA;03;Quimica Central - 33662233445;Julian
 Sal Fina;KILOGRAMOS;40;MEDIA;0.05;Sabor Andino - 30889977662;Julian
 Levadura Seca;GRAMOS;990;ALTA;0.01;Alimentos del sur - 30712345678;Julian
 Agus Mineral;LITROS;200;ALTA;0.6;agro natural SRL - 30701234567;Julian
+queso;KILOGRAMOS;1;ALTA;0.1;Quimica Central - 33662233445;Jeremias

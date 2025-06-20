@@ -54,6 +54,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panelContenedor = new System.Windows.Forms.Panel();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.btnPedido = new System.Windows.Forms.Button();
             this.BarraTitulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnMinimizar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btncerrar)).BeginInit();
@@ -102,6 +104,8 @@
             // MenuVertical
             // 
             this.MenuVertical.BackColor = System.Drawing.Color.Beige;
+            this.MenuVertical.Controls.Add(this.panel11);
+            this.MenuVertical.Controls.Add(this.btnPedido);
             this.MenuVertical.Controls.Add(this.submenu);
             this.MenuVertical.Controls.Add(this.panel5);
             this.MenuVertical.Controls.Add(this.button5);
@@ -129,7 +133,7 @@
             this.submenu.Controls.Add(this.btninsumos);
             this.submenu.Controls.Add(this.panel7);
             this.submenu.Controls.Add(this.btnproveedores);
-            this.submenu.Location = new System.Drawing.Point(56, 318);
+            this.submenu.Location = new System.Drawing.Point(56, 363);
             this.submenu.Name = "submenu";
             this.submenu.Size = new System.Drawing.Size(200, 118);
             this.submenu.TabIndex = 11;
@@ -255,7 +259,7 @@
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.White;
-            this.panel4.Location = new System.Drawing.Point(0, 277);
+            this.panel4.Location = new System.Drawing.Point(0, 322);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(5, 32);
             this.panel4.TabIndex = 8;
@@ -269,7 +273,7 @@
             this.btnlistas.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btnlistas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnlistas.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnlistas.Location = new System.Drawing.Point(-6, 280);
+            this.btnlistas.Location = new System.Drawing.Point(-6, 325);
             this.btnlistas.Name = "btnlistas";
             this.btnlistas.Size = new System.Drawing.Size(226, 32);
             this.btnlistas.TabIndex = 7;
@@ -373,6 +377,30 @@
             this.panelContenedor.Size = new System.Drawing.Size(1080, 612);
             this.panelContenedor.TabIndex = 2;
             // 
+            // panel11
+            // 
+            this.panel11.BackColor = System.Drawing.Color.White;
+            this.panel11.Location = new System.Drawing.Point(0, 275);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(5, 32);
+            this.panel11.TabIndex = 13;
+            // 
+            // btnPedido
+            // 
+            this.btnPedido.BackColor = System.Drawing.Color.Beige;
+            this.btnPedido.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnPedido.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnPedido.FlatAppearance.BorderSize = 0;
+            this.btnPedido.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.btnPedido.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPedido.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPedido.Location = new System.Drawing.Point(-14, 275);
+            this.btnPedido.Name = "btnPedido";
+            this.btnPedido.Size = new System.Drawing.Size(234, 32);
+            this.btnPedido.TabIndex = 12;
+            this.btnPedido.Text = "Registrar pedido";
+            this.btnPedido.UseVisualStyleBackColor = false;
+            // 
             // FRMPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -423,5 +451,7 @@
         private System.Windows.Forms.Panel panel7;
         private System.Windows.Forms.Button btnproveedores;
         private System.Windows.Forms.Panel panel6;
+        private System.Windows.Forms.Panel panel11;
+        private System.Windows.Forms.Button btnPedido;
     }
 }

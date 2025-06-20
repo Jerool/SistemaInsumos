@@ -127,6 +127,12 @@
     <Compile Include="Formularios\FRMUsuario.Designer.cs">
       <DependentUpon>FRMUsuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="FRMPrincipalProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMPrincipalProveedor.Designer.cs">
+      <DependentUpon>FRMPrincipalProveedor.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Formularios\FRMInicioSesion.resx">

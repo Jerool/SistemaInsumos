@@ -17,12 +17,13 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
     {
         string linea = "";
         string[] vl = new string[0];
+        string[] vl1 = new string[0];
         public FRMInicioSesion()
         {
             InitializeComponent();
             txtContraseña.UseSystemPasswordChar = false;
             lblerror.Visible = false;
-            
+
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -31,10 +32,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         private extern static void SendMessage(System.IntPtr hwnd, int wmsg, int wparam, int lparam);
         private void btnIniciarsesion_Click(object sender, EventArgs e)
         {
-            try
-            {
 
             string path = "Empleados.txt";
+            string path1 = "Proveedores.txt";
+            bool ValidarUsuario = false;
+            bool empleado = false;
             if (File.Exists(path))
             {
                 using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read))
@@ -42,54 +44,81 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 {
                     sr.ReadLine();
                     linea = sr.ReadLine();
-                    bool validar = false;
-                    while (linea!=null)
+                    while (linea != null)
                     {
                         vl = linea.Split(';');
                         if (vl[0] == txtDNI.Text && vl[6] == txtContraseña.Text)
                         {
-                         validar = true;
-                         this.Hide();
-                         FRMPrincipal aux = new FRMPrincipal(vl[1], vl[2], vl[0], Convert.ToInt32(vl[5]), Convert.ToInt32(vl[4]), vl[3]);
-                         aux.Show();
-                         aux.Enabled = true;
+                            ValidarUsuario = true;
+                            empleado = true;
+                            this.Hide();
+                            FRMPrincipal aux = new FRMPrincipal(vl[1], vl[2], vl[0], Convert.ToInt32(vl[5]), Convert.ToInt32(vl[4]), vl[3]);
+                            aux.Show();
+                            aux.Enabled = true;
+                            return;
                         }
                         linea = sr.ReadLine();
                     }
-                        if (validar==false)
-                        {
-                            if (txtDNI.Text != "DNI")
-                            {
-                                if (txtContraseña.Text != "Contraseña")
-                                {
-                                    if (vl[0] != txtDNI.Text && vl[6] != txtContraseña.Text)
-                                    {
-                                        MessageBox.Show("Usuario no registrado");
-                                        txtContraseña.Text = string.Empty;
-                                        txtDNI.Text = string.Empty;
-                                    }
-                                }
-                                else msgerror("Por favor, ingrese la contraseña");
-                            }
-                            else
-                            {
-                                msgerror("Por favor, ingrese el DNI");
-                            }
-                        }
-
                 }
             }
             else
             {
-                MessageBox.Show("El archivo no existe", "Error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+                MessageBox.Show("El archivo no existe", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-                
-            }
-            catch (Exception ex)
+
+
+            if (!empleado && File.Exists(path1))
             {
-                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                using (FileStream fs1 = new FileStream(path1, FileMode.Open, FileAccess.Read))
+                using (StreamReader sr1 = new StreamReader(fs1))
+                {
+                    sr1.ReadLine();
+                    linea = sr1.ReadLine();
+                    while (linea != null)
+                    {
+                        vl1 = linea.Split(';');
+                        if (vl1[1] == txtDNI.Text && vl1[4] == txtContraseña.Text)
+                        {
+                            ValidarUsuario = true;
+                            this.Hide();
+                            FRMPrincipalProveedor aux1 = new FRMPrincipalProveedor();
+                            aux1.Show();
+                            aux1.Enabled = true;
+                            return;
+                        }
+                        linea = sr1.ReadLine();
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("El archivo no existe", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+            if (ValidarUsuario == false)
+            {
+                if (txtDNI.Text != "DNI")
+                {
+                    if (txtContraseña.Text != "Contraseña")
+                    {
+                        if (vl[0] != txtDNI.Text && vl[6] != txtContraseña.Text || vl1[1] != txtDNI.Text && vl1[4] != txtContraseña.Text)
+                        {
+                            MessageBox.Show("Usuario no registrado");
+                            txtContraseña.Text = string.Empty;
+                            txtDNI.Text = string.Empty;
+                        }
+                    }
+                    else msgerror("Por favor, ingrese la contraseña");
+                }
+                else
+                {
+                    msgerror("Por favor, ingrese el DNI");
+                }
             }
         }
+
+    
+
         private void msgerror(string v)
         {
             lblerror.Text = "       " + v;

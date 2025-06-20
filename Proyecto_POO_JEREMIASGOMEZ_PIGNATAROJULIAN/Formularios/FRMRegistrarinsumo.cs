@@ -79,7 +79,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 sw1.WriteLine("NOMBRE;UNIDAD;CANTIDAD;CALIDAD;PROPORCION;PROVEEDORES;RESPONSABLE");
                 foreach (var insumo in listainsumos)
                 {
-                    sw1.WriteLine(insumo.Paraarchivostring());
+                    sw1.WriteLine(insumo.ArchivoString());
                 }
             }
             MessageBox.Show("Se ha registrado correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);

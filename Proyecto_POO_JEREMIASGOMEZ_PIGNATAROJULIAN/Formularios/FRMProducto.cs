@@ -26,19 +26,22 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         }
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            foreach (var insumo in insumosParaProducto)
-            {
-                if (insumo.CantidadUsada > insumo.Insumo.Cantidad)
-                {
-                    MessageBox.Show($"No hay suficiente cantidad disponible del insumo: {insumo.Insumo.Nombre}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                    return;
-                }
-            }
+           
             CLSInsumos insumoSeleccionado = (CLSInsumos)cmbinsumo.SelectedItem;
-            double cantidadUsada = double.Parse(txtcantidadinsumo.Text); // si escribís mal, lanza excepción
+            double cantidadIngresada = double.Parse(txtcantidadinsumo.Text); // si escribís mal, lanza excepción
             string unidadIngresada = cbmunidad.Text;
 
-            double cantidadConvertida = CLSConvertidor.ConvertirAUnidadBase(cantidadUsada, unidadIngresada);
+            double cantidadConvertida = CLSConvertidor.ConvertirAUnidadBase(cantidadIngresada, unidadIngresada);
+
+            double CantidadUsada = (from i in insumosParaProducto
+                                   where i.Insumo.Nombre == insumoSeleccionado.Nombre
+                                   select i.CantidadUsada).Sum();
+
+            if (CantidadUsada + cantidadConvertida > insumoSeleccionado.Cantidad)
+            {
+                MessageBox.Show($"No hay suficiente cantidad disponible del insumo: {insumoSeleccionado.Nombre}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
 
             listBox1.Items.Add($"{insumoSeleccionado.Nombre} - {cantidadConvertida} {insumoSeleccionado.Unidad}");
             CLSInsumoproducto ip = new CLSInsumoproducto(insumoSeleccionado, cantidadConvertida);
@@ -49,9 +52,9 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         }
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(txtnombre.Text) || string.IsNullOrWhiteSpace(txtRubro.Text) || string.IsNullOrWhiteSpace(txtcantidadinsumo.Text) || string.IsNullOrWhiteSpace(cbmunidad.Text) || string.IsNullOrWhiteSpace(cmbinsumo.Text))
+            if (string.IsNullOrWhiteSpace(txtnombre.Text) || string.IsNullOrWhiteSpace(txtRubro.Text) || string.IsNullOrWhiteSpace(numericUpDown1.Value.ToString()))
             {
-                MessageBox.Show("Debe ingresar un nombre,rubro y cantidad para el producto.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Debe ingresar un nombre,rubro y precio para el producto.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
             if (numericUpDown1.Value == 0)
@@ -74,7 +77,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 sw.WriteLine("NOMBRE;UNIDAD;CANTIDAD;CALIDAD;PROPORCION;PROVEEDORES;RESPONSABLE");
                 foreach (var insumo in listainsumo)
                 {
-                    sw.WriteLine(insumo.Paraarchivostring()); 
+                    sw.WriteLine(insumo.ArchivoString()); 
                 }
             }
             CLSProducto nuevoProducto = new CLSProducto(txtnombre.Text,txtRubro.Text,(int)numericUpDown1.Value, new List<CLSInsumoproducto>(insumosParaProducto));

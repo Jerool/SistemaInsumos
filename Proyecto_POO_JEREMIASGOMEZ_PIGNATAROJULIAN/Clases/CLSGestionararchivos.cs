@@ -48,7 +48,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 while (linea != null)
                 {
                     vl = linea.Split(';');
-                    CLSProveedor proveedor = new CLSProveedor(vl[0], Convert.ToDouble(vl[1]), vl[2], vl[3]);
+                    CLSProveedor proveedor = new CLSProveedor(vl[0], Convert.ToDouble(vl[1]), vl[2], vl[3], vl[4]);
                     listaproveedores.Add(proveedor);
                     linea = sr.ReadLine();
                 }
