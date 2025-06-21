@@ -67,6 +67,7 @@
     <Compile Include="Clases\CLSPersona.cs" />
     <Compile Include="Clases\CLSProducto.cs" />
     <Compile Include="Clases\CLSProveedor.cs" />
+    <Compile Include="Clases\CLSPedidos.cs" />
     <Compile Include="Formularios\FRMInicioSesion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -127,16 +128,25 @@
     <Compile Include="Formularios\FRMUsuario.Designer.cs">
       <DependentUpon>FRMUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="FRMPrincipalProveedor.cs">
+    <Compile Include="Formularios\FRMPrincipalProveedor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FRMPrincipalProveedor.Designer.cs">
+    <Compile Include="Formularios\FRMPrincipalProveedor.Designer.cs">
       <DependentUpon>FRMPrincipalProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FRMPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FRMPedidos.Designer.cs">
+      <DependentUpon>FRMPedidos.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Formularios\FRMInicioSesion.resx">
       <DependentUpon>FRMInicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMPedidos.resx">
+      <DependentUpon>FRMPedidos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FRMPrincipal.resx">
       <DependentUpon>FRMPrincipal.cs</DependentUpon>

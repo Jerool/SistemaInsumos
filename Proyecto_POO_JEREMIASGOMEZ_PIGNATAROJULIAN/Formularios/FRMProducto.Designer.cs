@@ -44,6 +44,8 @@
             this.label5 = new System.Windows.Forms.Label();
             this.txtRubro = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.txtCantidadProducto = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -54,7 +56,7 @@
             this.btnRegistrar.FlatAppearance.BorderSize = 0;
             this.btnRegistrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRegistrar.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegistrar.Location = new System.Drawing.Point(242, 376);
+            this.btnRegistrar.Location = new System.Drawing.Point(240, 417);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(180, 42);
             this.btnRegistrar.TabIndex = 25;
@@ -67,7 +69,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(37, 218);
+            this.label4.Location = new System.Drawing.Point(37, 260);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(127, 17);
             this.label4.TabIndex = 24;
@@ -78,7 +80,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(37, 177);
+            this.label3.Location = new System.Drawing.Point(37, 219);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(49, 17);
             this.label3.TabIndex = 23;
@@ -120,7 +122,7 @@
             // 
             // txtcantidadinsumo
             // 
-            this.txtcantidadinsumo.Location = new System.Drawing.Point(178, 218);
+            this.txtcantidadinsumo.Location = new System.Drawing.Point(178, 260);
             this.txtcantidadinsumo.Name = "txtcantidadinsumo";
             this.txtcantidadinsumo.Size = new System.Drawing.Size(120, 20);
             this.txtcantidadinsumo.TabIndex = 19;
@@ -136,7 +138,7 @@
             // cmbinsumo
             // 
             this.cmbinsumo.FormattingEnabled = true;
-            this.cmbinsumo.Location = new System.Drawing.Point(178, 177);
+            this.cmbinsumo.Location = new System.Drawing.Point(178, 219);
             this.cmbinsumo.Name = "cmbinsumo";
             this.cmbinsumo.Size = new System.Drawing.Size(121, 21);
             this.cmbinsumo.TabIndex = 26;
@@ -156,7 +158,7 @@
             this.btnAgregar.FlatAppearance.BorderSize = 0;
             this.btnAgregar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAgregar.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAgregar.Location = new System.Drawing.Point(12, 376);
+            this.btnAgregar.Location = new System.Drawing.Point(10, 417);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(159, 42);
             this.btnAgregar.TabIndex = 28;
@@ -175,7 +177,7 @@
             "LITROS",
             "CENTIMETROS",
             "METROS"});
-            this.cbmunidad.Location = new System.Drawing.Point(178, 260);
+            this.cbmunidad.Location = new System.Drawing.Point(178, 302);
             this.cbmunidad.Name = "cbmunidad";
             this.cbmunidad.Size = new System.Drawing.Size(121, 21);
             this.cbmunidad.TabIndex = 30;
@@ -185,7 +187,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(37, 260);
+            this.label2.Location = new System.Drawing.Point(37, 302);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(118, 17);
             this.label2.TabIndex = 29;
@@ -196,7 +198,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(38, 304);
+            this.label5.Location = new System.Drawing.Point(38, 346);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(42, 17);
             this.label5.TabIndex = 32;
@@ -204,7 +206,7 @@
             // 
             // txtRubro
             // 
-            this.txtRubro.Location = new System.Drawing.Point(179, 304);
+            this.txtRubro.Location = new System.Drawing.Point(179, 346);
             this.txtRubro.Name = "txtRubro";
             this.txtRubro.Size = new System.Drawing.Size(120, 20);
             this.txtRubro.TabIndex = 31;
@@ -220,12 +222,33 @@
             this.label6.TabIndex = 33;
             this.label6.Text = "Producto";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.Location = new System.Drawing.Point(38, 179);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(123, 17);
+            this.label7.TabIndex = 35;
+            this.label7.Text = "Cantidad producto";
+            // 
+            // txtCantidadProducto
+            // 
+            this.txtCantidadProducto.Location = new System.Drawing.Point(179, 179);
+            this.txtCantidadProducto.Name = "txtCantidadProducto";
+            this.txtCantidadProducto.Size = new System.Drawing.Size(120, 20);
+            this.txtCantidadProducto.TabIndex = 34;
+            this.txtCantidadProducto.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtCantidadProducto_KeyPress);
+            // 
             // FRMProducto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(66)))), ((int)(((byte)(82)))));
             this.ClientSize = new System.Drawing.Size(1080, 612);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.txtCantidadProducto);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.txtRubro);
@@ -269,5 +292,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtRubro;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox txtCantidadProducto;
     }
 }

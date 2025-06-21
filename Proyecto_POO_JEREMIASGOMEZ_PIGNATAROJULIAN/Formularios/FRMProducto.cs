@@ -28,10 +28,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         {
            
             CLSInsumos insumoSeleccionado = (CLSInsumos)cmbinsumo.SelectedItem;
-            double cantidadIngresada = double.Parse(txtcantidadinsumo.Text); // si escribís mal, lanza excepción
+            double CantidadInsumoIngresada = double.Parse(txtcantidadinsumo.Text); // si escribís mal, lanza excepción
             string unidadIngresada = cbmunidad.Text;
+            double CantidadProductoIngresado = double.Parse(txtCantidadProducto.Text);
 
-            double cantidadConvertida = CLSConvertidor.ConvertirAUnidadBase(cantidadIngresada, unidadIngresada);
+            double cantidadConvertida = CLSConvertidor.ConvertirAUnidadBase(CantidadInsumoIngresada, unidadIngresada, CantidadProductoIngresado);
 
             double CantidadUsada = (from i in insumosParaProducto
                                    where i.Insumo.Nombre == insumoSeleccionado.Nombre
@@ -80,7 +81,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                     sw.WriteLine(insumo.ArchivoString()); 
                 }
             }
-            CLSProducto nuevoProducto = new CLSProducto(txtnombre.Text,txtRubro.Text,(int)numericUpDown1.Value, new List<CLSInsumoproducto>(insumosParaProducto));
+            CLSProducto nuevoProducto = new CLSProducto(txtnombre.Text,txtRubro.Text,(int)numericUpDown1.Value, new List<CLSInsumoproducto>(insumosParaProducto),Convert.ToInt16(txtCantidadProducto.Text));
             listaproducto.Add(nuevoProducto);
             using (FileStream fs = new FileStream("Productos.txt", FileMode.Append, FileAccess.Write))
             using (StreamWriter sw = new StreamWriter(fs))
@@ -101,6 +102,13 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             cbmunidad.SelectedIndex = -1;
         }
         private void txtcantidadinsumo_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true; // bloquea la tecla
+            }
+        }
+        private void txtCantidadProducto_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {

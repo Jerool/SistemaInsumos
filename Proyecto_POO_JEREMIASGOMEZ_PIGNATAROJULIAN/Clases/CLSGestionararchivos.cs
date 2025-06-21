@@ -55,7 +55,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 return listaproveedores;
             }
         }
-        internal List<CLSProducto> productoscarga(List<CLSInsumos> listaInsumos)
+        internal List<CLSProducto> ProductosCarga(List<CLSInsumos> listaInsumos)
         {
             List<CLSProducto> listaproductos = new List<CLSProducto>();
 
@@ -70,7 +70,8 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                     string[] vl = linea.Split(';');
                     string nombre = vl[0];
                     string rubro = vl[1];
-                    int precio = Convert.ToInt32(vl[2]);
+                    int CantidadProducto = Convert.ToInt32(vl[2]);
+                    int precio = Convert.ToInt32(vl[4]);
 
                     List<CLSInsumoproducto> listainsumos = new List<CLSInsumoproducto>();
 
@@ -81,7 +82,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                         {
                             string[] datos = parte.Split('|');
                             
-                                string nombreInsumo = datos[0];
+                            string nombreInsumo = datos[0];
                             double cantidadUsada = double.Parse(datos[1].Replace(',', '.'), CultureInfo.InvariantCulture);
                             CLSInsumos insumo = listaInsumos.FirstOrDefault(i => i.Nombre.Trim().Equals(nombreInsumo.Trim(), StringComparison.OrdinalIgnoreCase));
                                 if (insumo == null)
@@ -95,7 +96,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                             
                         }
                     }
-                    CLSProducto producto = new CLSProducto(nombre, rubro, precio, listainsumos);
+                    CLSProducto producto = new CLSProducto(nombre, rubro, precio, listainsumos,CantidadProducto);
                     listaproductos.Add(producto);
                     linea = sr.ReadLine();
                 }

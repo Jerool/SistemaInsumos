@@ -17,7 +17,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         public FRMVerProductos()
         {
             InitializeComponent();
-            listaproductos = mostrarproductos.productoscarga(mostrarproductos.cargarinsumos());
+            listaproductos = mostrarproductos.ProductosCarga(mostrarproductos.cargarinsumos());
             dataGridView1.DataSource = null;
             dataGridView1.DataSource = listaproductos;
         }

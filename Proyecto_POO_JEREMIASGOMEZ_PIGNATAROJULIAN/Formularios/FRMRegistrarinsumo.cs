@@ -55,7 +55,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             
                 int CantidadIngresada = ((int)numericUpDown1.Value); // si escribís mal, lanza excepción
                 string unidadIngresada = cbmunidad.Text;
-                double cantidadConvertida = CLSConvertidor.ConvertirAUnidadBase(CantidadIngresada, unidadIngresada);
+                double cantidadConvertida = CLSConvertidor.ConvertirInsumo(CantidadIngresada, unidadIngresada);
                 foreach (var insumo in listainsumos)
                 {
                 if (insumo.Nombre.Trim().ToLower() == txtnombre.Text.Trim().ToLower() && insumo.Proveedor.Trim().ToLower() == cbmproveedor.Text.Trim().ToLower() && insumo.Calidad.Trim().ToLower() == cbmcalidad.Text.Trim().ToLower())
