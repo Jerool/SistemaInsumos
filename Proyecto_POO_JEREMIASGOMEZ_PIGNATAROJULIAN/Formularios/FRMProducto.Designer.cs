@@ -142,6 +142,7 @@
             this.cmbinsumo.Name = "cmbinsumo";
             this.cmbinsumo.Size = new System.Drawing.Size(121, 21);
             this.cmbinsumo.TabIndex = 26;
+            this.cmbinsumo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cmbinsumo_KeyPress);
             // 
             // listBox1
             // 
@@ -181,6 +182,7 @@
             this.cbmunidad.Name = "cbmunidad";
             this.cbmunidad.Size = new System.Drawing.Size(121, 21);
             this.cbmunidad.TabIndex = 30;
+            this.cbmunidad.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cbmunidad_KeyPress);
             // 
             // label2
             // 

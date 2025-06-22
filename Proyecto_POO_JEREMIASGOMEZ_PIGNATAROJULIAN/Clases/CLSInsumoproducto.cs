@@ -24,15 +24,6 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			set { _Cantidadusada = value; }
 		}
 
-		private CLSProducto _Producto;
-
-		public CLSProducto Producto
-		{
-			get { return _Producto; }
-			set { _Producto = value; }	
-		}
-
-
 		public CLSInsumoproducto(CLSInsumos insumo, double cantidadusada)
         {
 			Insumo = insumo;

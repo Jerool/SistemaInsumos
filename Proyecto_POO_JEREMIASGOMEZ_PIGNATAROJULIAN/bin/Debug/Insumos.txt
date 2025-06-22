@@ -1,5 +1,5 @@
 NOMBRE;UNIDAD;CANTIDAD;CALIDAD;PROPORCION;PROVEEDORES;RESPONSABLE
-Harina de trigo;KILOGRAMOS;882;ALTA;1.0;Alimentos del sur - 30712345678;Julian
+Harina de trigo;KILOGRAMOS;881,5;ALTA;1.0;Alimentos del sur - 30712345678;Julian
 Aceite vegetal;LITROS;50;MEDIA;0.2;agro natural SRL - 30701234567;Julian
 Azucar Refinada;KILOGRAMOS;69;ALTA;03;Quimica Central - 33662233445;Julian
 Sal Fina;KILOGRAMOS;40;MEDIA;0.05;Sabor Andino - 30889977662;Julian

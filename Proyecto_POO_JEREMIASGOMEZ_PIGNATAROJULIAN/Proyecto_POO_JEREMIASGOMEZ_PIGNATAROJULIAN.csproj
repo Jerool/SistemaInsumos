@@ -68,6 +68,7 @@
     <Compile Include="Clases\CLSProducto.cs" />
     <Compile Include="Clases\CLSProveedor.cs" />
     <Compile Include="Clases\CLSPedidos.cs" />
+    <Compile Include="Clases\ProductosPedidos.cs" />
     <Compile Include="Formularios\FRMInicioSesion.cs">
       <SubType>Form</SubType>
     </Compile>

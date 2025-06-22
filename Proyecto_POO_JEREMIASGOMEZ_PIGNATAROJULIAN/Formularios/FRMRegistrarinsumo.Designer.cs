@@ -132,6 +132,7 @@
             this.cbmunidad.Name = "cbmunidad";
             this.cbmunidad.Size = new System.Drawing.Size(121, 21);
             this.cbmunidad.TabIndex = 26;
+            this.cbmunidad.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cbmunidad_KeyPress);
             // 
             // numericUpDown1
             // 
@@ -156,6 +157,7 @@
             this.cbmcalidad.Name = "cbmcalidad";
             this.cbmcalidad.Size = new System.Drawing.Size(121, 21);
             this.cbmcalidad.TabIndex = 28;
+            this.cbmcalidad.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cbmcalidad_KeyPress);
             // 
             // label5
             // 
@@ -195,6 +197,7 @@
             this.cbmproveedor.Name = "cbmproveedor";
             this.cbmproveedor.Size = new System.Drawing.Size(121, 21);
             this.cbmproveedor.TabIndex = 33;
+            this.cbmproveedor.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cbmproveedor_KeyPress);
             // 
             // label7
             // 

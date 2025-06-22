@@ -70,8 +70,8 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                     string[] vl = linea.Split(';');
                     string nombre = vl[0];
                     string rubro = vl[1];
-                    int CantidadProducto = Convert.ToInt32(vl[2]);
-                    int precio = Convert.ToInt32(vl[4]);
+                    int precio = Convert.ToInt32(vl[2]);
+                    int CantidadProducto = Convert.ToInt32(vl[4]);
 
                     List<CLSInsumoproducto> listainsumos = new List<CLSInsumoproducto>();
 

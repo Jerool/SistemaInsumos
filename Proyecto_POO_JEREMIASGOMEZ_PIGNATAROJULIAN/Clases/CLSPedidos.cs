@@ -1,23 +1,17 @@
-﻿using System;
+﻿using Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.Clases;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 {
 	public class CLSPedidos
 	{
-		private string _Nombre;
-
-		public string Nombre
-		{
-			get { return _Nombre; }
-			set { _Nombre = value; }
-		}
-
 		private int _Cantidad;
-
 		public int Cantidad
 		{
 			get { return _Cantidad; }
@@ -32,23 +26,35 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			set { _Direccion = value; }
 		}
 
-		private CLSProducto _Productos;
+		private List<ProductosPedidos> _ListaProductos;
 
-		public CLSProducto Productos
-        {
-			get { return _Productos; }
-			set { _Productos = value; }
+		public List<ProductosPedidos> ListaProductos
+		{
+			get { return _ListaProductos; }
+			set { _ListaProductos = value; }
 		}
 
+		private int _ID;
 
-		public CLSPedidos(string nombre, int cantidad, string direccion, CLSProducto producto)
+		public int ID
+		{
+			get { return _ID; }
+			set { _ID = value; }
+		}
+
+		public CLSPedidos(int cantidad, string direccion, List<ProductosPedidos> listaproducto)
         {
-            Nombre = nombre;
 			Cantidad = cantidad;
 			Direccion = direccion;
-			Productos = producto;
+			ListaProductos = listaproducto;
         }
 
+
+		public override string ToString()
+        {
+            string ProductosUsados = string.Join(",", ListaProductos.Select(p =>$"{p.Producto.Nombre} | {p.CantidadUsadaProductos}"));
+            return $"{Cantidad};{Direccion};{ProductosUsados}";
+		}
 
     }
 }

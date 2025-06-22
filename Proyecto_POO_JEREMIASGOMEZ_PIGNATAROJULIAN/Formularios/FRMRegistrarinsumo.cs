@@ -96,6 +96,30 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             numericUpDown1.Value = 0;
 
         }
+
+        private void cbmcalidad_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsControl(e.KeyChar) || char.IsDigit(e.KeyChar) || char.IsSymbol(e.KeyChar) || char.IsNumber(e.KeyChar) || char.IsPunctuation(e.KeyChar))
+            {
+                e.Handled = true; // bloquea la tecla
+            }
+        }
+
+        private void cbmproveedor_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsControl(e.KeyChar) || char.IsDigit(e.KeyChar) || char.IsSymbol(e.KeyChar) || char.IsNumber(e.KeyChar) || char.IsPunctuation(e.KeyChar))
+            {
+                e.Handled = true; // bloquea la tecla
+            }
+        }
+
+        private void cbmunidad_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsControl(e.KeyChar) || char.IsDigit(e.KeyChar) || char.IsSymbol(e.KeyChar) || char.IsNumber(e.KeyChar) || char.IsPunctuation(e.KeyChar))
+            {
+                e.Handled = true; // bloquea la tecla
+            }
+        }
     }
 }
 

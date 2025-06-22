@@ -35,9 +35,9 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			set { _Precio = value; }
 		}
 
-		private int _CantidadProductos;
+		private double _CantidadProductos;
 
-		public int CantidadProductos
+		public double CantidadProductos
         {
 			get { return _CantidadProductos; }
 			set { _CantidadProductos = value; }
@@ -50,7 +50,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			set { _Insumoproductos = value; }
 		}
 
-		public CLSProducto(string nombre, string rubro, int precio, List<CLSInsumoproducto> insumoproducto, int cantidadproductos)
+		public CLSProducto(string nombre, string rubro, int precio, List<CLSInsumoproducto> insumoproducto, double cantidadproductos)
 		{
 			Nombre = nombre;
 			Rubro = rubro;
@@ -60,9 +60,9 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 		}
 		public override string ToString()
 		{
-			string insumos = string.Join(":", Insumoproductos.Select(i => $"{i.Insumo.Nombre}|{i.CantidadUsada}|{i.Insumo.Unidad}"));
-			return $"{Nombre};{Rubro};{Precio};{insumos};{CantidadProductos}";
-		}
+			return $"{Nombre}";
+
+        }
 		public string InsumosUsados
         {
             get
@@ -70,11 +70,12 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 return string.Join(":", Insumoproductos.Select(i => $"{i.Insumo.Nombre} ({i.CantidadUsada}) {i.Insumo.Unidad}"));
             }
         }
-
-		public string MostrarProductos()
+		public string ArchivoProductos()
 		{
-			return $"{Nombre}";
-		}
+            string insumos = string.Join(":", Insumoproductos.Select(i => $"{i.Insumo.Nombre}|{i.CantidadUsada}|{i.Insumo.Unidad}"));
+            return $"{Nombre};{Rubro};{Precio};{insumos};{CantidadProductos}";
+        }
+
 
     }
 }

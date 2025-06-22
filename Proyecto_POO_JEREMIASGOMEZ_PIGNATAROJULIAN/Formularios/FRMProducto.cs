@@ -86,7 +86,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             using (FileStream fs = new FileStream("Productos.txt", FileMode.Append, FileAccess.Write))
             using (StreamWriter sw = new StreamWriter(fs))
             {
-                sw.WriteLine(nuevoProducto);
+                sw.WriteLine(nuevoProducto.ArchivoProductos());
             }
             MessageBox.Show("Producto registrado con éxito.", "Confirmación", MessageBoxButtons.OK, MessageBoxIcon.Information);
             actualizarcontroles();
@@ -111,6 +111,22 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         private void txtCantidadProducto_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true; // bloquea la tecla
+            }
+        }
+
+        private void cmbinsumo_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsControl(e.KeyChar) || char.IsDigit(e.KeyChar) || char.IsSymbol(e.KeyChar) || char.IsNumber(e.KeyChar) || char.IsPunctuation(e.KeyChar)) 
+            {
+                e.Handled = true; // bloquea la tecla
+            }
+        }
+
+        private void cbmunidad_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsControl(e.KeyChar) || char.IsDigit(e.KeyChar) || char.IsSymbol(e.KeyChar) || char.IsNumber(e.KeyChar) || char.IsPunctuation(e.KeyChar))
             {
                 e.Handled = true; // bloquea la tecla
             }
