@@ -11,7 +11,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 {
     public class CLSProveedor
     {
-        private string _Nombre;
+        private string _Nombre; //proveedor tiene nombre 
 
         public string Nombre
         {

@@ -152,6 +152,9 @@
     <EmbeddedResource Include="Formularios\FRMPrincipal.resx">
       <DependentUpon>FRMPrincipal.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FRMPrincipalProveedor.resx">
+      <DependentUpon>FRMPrincipalProveedor.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FRMProducto.resx">
       <DependentUpon>FRMProducto.cs</DependentUpon>
     </EmbeddedResource>

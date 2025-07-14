@@ -22,6 +22,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                     return (cantidadInsumo * cantidadProducto) / 1000.0; // a kilogramos
 
                 case "litros":
+                    return (cantidadInsumo * cantidadProducto); // a kilogramos
 
                 case "kilogramos":
                     return (cantidadInsumo * cantidadProducto); // ya está en unidad base
@@ -45,6 +46,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                     return cantidadIngresada / 1000.0; // a kilogramos
 
                 case "litros":
+                    return cantidadIngresada;
 
                 case "kilogramos":
                     return cantidadIngresada; // ya está en unidad base

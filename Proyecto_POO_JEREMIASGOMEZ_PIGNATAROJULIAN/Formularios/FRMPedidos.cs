@@ -66,17 +66,24 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
      
         private void btnAgregarproducto_Click(object sender, EventArgs e)
         {
-            CLSProducto ProductoSeleccionado = (CLSProducto)cmbProductos.SelectedItem;
-            if ((double)numericUpDown1.Value > ProductoSeleccionado.CantidadProductos)
+            try
             {
-                MessageBox.Show("No hay suficiente productos", "Error", MessageBoxButtons.OK);
-                return;
+                CLSProducto ProductoSeleccionado = (CLSProducto)cmbProductos.SelectedItem;
+                if ((double)numericUpDown1.Value > ProductoSeleccionado.CantidadProductos)
+                {
+                    MessageBox.Show("No hay suficiente productos", "Error", MessageBoxButtons.OK);
+                    return;
+                }
+                string Direccion = txtDireccion.Text;
+                double CantidadUsadaProductos = (double)numericUpDown1.Value;
+                ProductosPedidos ProductoPedido = new ProductosPedidos(ProductoSeleccionado, CantidadUsadaProductos);
+                listBox1.Items.Add($"{ProductoSeleccionado.Nombre} - {CantidadUsadaProductos}");
+                ListaProductosPedidos.Add(ProductoPedido);
             }
-            string Direccion = txtDireccion.Text;
-            double CantidadUsadaProductos = (double)numericUpDown1.Value;
-            ProductosPedidos ProductoPedido = new ProductosPedidos(ProductoSeleccionado, CantidadUsadaProductos);
-            listBox1.Items.Add($"{ProductoSeleccionado.Nombre} - {CantidadUsadaProductos}");
-            ListaProductosPedidos.Add(ProductoPedido);
+            catch(Exception error)
+            {
+                MessageBox.Show(error.Message);
+            }
         }
 
         private void cmbProductos_KeyPress(object sender, KeyPressEventArgs e)

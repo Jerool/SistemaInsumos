@@ -26,70 +26,84 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         }
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-           
-            CLSInsumos insumoSeleccionado = (CLSInsumos)cmbinsumo.SelectedItem;
-            double CantidadInsumoIngresada = double.Parse(txtcantidadinsumo.Text); // si escribís mal, lanza excepción
-            string unidadIngresada = cbmunidad.Text;
-            double CantidadProductoIngresado = double.Parse(txtCantidadProducto.Text);
-
-            double cantidadConvertida = CLSConvertidor.ConvertirAUnidadBase(CantidadInsumoIngresada, unidadIngresada, CantidadProductoIngresado);
-
-            double CantidadUsada = (from i in insumosParaProducto
-                                   where i.Insumo.Nombre == insumoSeleccionado.Nombre
-                                   select i.CantidadUsada).Sum();
-
-            if (CantidadUsada + cantidadConvertida > insumoSeleccionado.Cantidad)
+            try
             {
-                MessageBox.Show($"No hay suficiente cantidad disponible del insumo: {insumoSeleccionado.Nombre}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
+                CLSInsumos insumoSeleccionado = (CLSInsumos)cmbinsumo.SelectedItem;
+                double CantidadInsumoIngresada = double.Parse(txtcantidadinsumo.Text); // si escribís mal, lanza excepción
+                string unidadIngresada = cbmunidad.Text;
+                double CantidadProductoIngresado = double.Parse(txtCantidadProducto.Text);
 
-            listBox1.Items.Add($"{insumoSeleccionado.Nombre} - {cantidadConvertida} {insumoSeleccionado.Unidad}");
-            CLSInsumoproducto ip = new CLSInsumoproducto(insumoSeleccionado, cantidadConvertida);
-            insumosParaProducto.Add(ip);
-            txtcantidadinsumo.Text = "";
-            cbmunidad.SelectedIndex = -1;
-            cmbinsumo.SelectedIndex = -1; //ultima modificacion
+                double cantidadConvertida = CLSConvertidor.ConvertirAUnidadBase(CantidadInsumoIngresada, unidadIngresada, CantidadProductoIngresado);
+
+                double CantidadUsada = (from i in insumosParaProducto
+                                        where i.Insumo.Nombre == insumoSeleccionado.Nombre
+                                        select i.CantidadUsada).Sum();
+
+                if (CantidadUsada + cantidadConvertida > insumoSeleccionado.Cantidad)
+                {
+                    MessageBox.Show($"No hay suficiente cantidad disponible del insumo: {insumoSeleccionado.Nombre}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                listBox1.Items.Add($"{insumoSeleccionado.Nombre} - {cantidadConvertida} {insumoSeleccionado.Unidad}");
+                CLSInsumoproducto ip = new CLSInsumoproducto(insumoSeleccionado, cantidadConvertida);
+                insumosParaProducto.Add(ip);
+                txtcantidadinsumo.Text = "";
+                cbmunidad.SelectedIndex = -1;
+                cmbinsumo.SelectedIndex = -1; 
+            }
+            catch (Exception error)
+            {
+                MessageBox.Show(error.Message);
+            }
+           
         }
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(txtnombre.Text) || string.IsNullOrWhiteSpace(txtRubro.Text) || string.IsNullOrWhiteSpace(numericUpDown1.Value.ToString()))
+            try
             {
-                MessageBox.Show("Debe ingresar un nombre,rubro y precio para el producto.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-            if (numericUpDown1.Value == 0)
-            {
-                MessageBox.Show("Debe ingresar un precio válido.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-            if (insumosParaProducto.Count == 0)
-            {
-                MessageBox.Show("Debe agregar al menos un insumo para el producto.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-            foreach (var ip in insumosParaProducto)
-            {
-                ip.Insumo.Cantidad -= ip.CantidadUsada;
-            }
-            using (FileStream fs = new FileStream("Insumos.txt", FileMode.Create, FileAccess.Write))
-            using (StreamWriter sw = new StreamWriter(fs))
-            {
-                sw.WriteLine("NOMBRE;UNIDAD;CANTIDAD;CALIDAD;PROPORCION;PROVEEDORES;RESPONSABLE");
-                foreach (var insumo in listainsumo)
+                if (string.IsNullOrWhiteSpace(txtnombre.Text) || string.IsNullOrWhiteSpace(txtRubro.Text) || string.IsNullOrWhiteSpace(numericUpDown1.Value.ToString()))
                 {
-                    sw.WriteLine(insumo.ArchivoString()); 
+                    MessageBox.Show("Debe ingresar un nombre,rubro y precio para el producto.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
                 }
+                if (numericUpDown1.Value == 0)
+                {
+                    MessageBox.Show("Debe ingresar un precio válido.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+                if (insumosParaProducto.Count == 0)
+                {
+                    MessageBox.Show("Debe agregar al menos un insumo para el producto.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+                foreach (var ip in insumosParaProducto)
+                {
+                    ip.Insumo.Cantidad -= ip.CantidadUsada;
+                }
+                using (FileStream fs = new FileStream("Insumos.txt", FileMode.Create, FileAccess.Write))
+                using (StreamWriter sw = new StreamWriter(fs))
+                {
+                    sw.WriteLine("NOMBRE;UNIDAD;CANTIDAD;CALIDAD;PROPORCION;PROVEEDORES;RESPONSABLE");
+                    foreach (var insumo in listainsumo)
+                    {
+                        sw.WriteLine(insumo.ArchivoString());
+                    }
+                }
+                CLSProducto nuevoProducto = new CLSProducto(txtnombre.Text, txtRubro.Text, (int)numericUpDown1.Value, new List<CLSInsumoproducto>(insumosParaProducto), Convert.ToInt16(txtCantidadProducto.Text));
+                listaproducto.Add(nuevoProducto);
+                using (FileStream fs = new FileStream("Productos.txt", FileMode.Append, FileAccess.Write))
+                using (StreamWriter sw = new StreamWriter(fs))
+                {
+                    sw.WriteLine(nuevoProducto.ArchivoProductos());
+                }
+                MessageBox.Show("Producto registrado con éxito.", "Confirmación", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                actualizarcontroles();
             }
-            CLSProducto nuevoProducto = new CLSProducto(txtnombre.Text,txtRubro.Text,(int)numericUpDown1.Value, new List<CLSInsumoproducto>(insumosParaProducto),Convert.ToInt16(txtCantidadProducto.Text));
-            listaproducto.Add(nuevoProducto);
-            using (FileStream fs = new FileStream("Productos.txt", FileMode.Append, FileAccess.Write))
-            using (StreamWriter sw = new StreamWriter(fs))
+            catch (Exception error)
             {
-                sw.WriteLine(nuevoProducto.ArchivoProductos());
+                MessageBox.Show(error.Message);
             }
-            MessageBox.Show("Producto registrado con éxito.", "Confirmación", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            actualizarcontroles();
         }
         private void actualizarcontroles()
         {

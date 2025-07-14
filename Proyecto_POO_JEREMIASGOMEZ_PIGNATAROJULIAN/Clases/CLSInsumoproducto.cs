@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 {
-    public class CLSInsumoproducto
+    public class CLSInsumoproducto 
     {
 		private CLSInsumos _Insumo;
 
@@ -25,10 +25,13 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 		}
 
 		public CLSInsumoproducto(CLSInsumos insumo, double cantidadusada)
-        {
+		{
 			Insumo = insumo;
 			CantidadUsada = cantidadusada;
-        }
+		}
+
+		
+
 
 		public override string ToString()
 		{
