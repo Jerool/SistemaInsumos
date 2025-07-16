@@ -36,6 +36,8 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 
         private void dataGridView2_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+            try
+            {
             List<CLSInsumos> listainsumos = new List<CLSInsumos>();
             CLSGestionararchivos Insumos = new CLSGestionararchivos();
             listainsumos = Insumos.cargarinsumos();
@@ -48,10 +50,18 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             var InsumosFiltrados = proveedor.MostrarInsumo(listainsumos,cuil,nombre);
             dataGridView1.DataSource = null;
             dataGridView1.DataSource = InsumosFiltrados;
+            }
+            catch (Exception error)
+            {
+                MessageBox.Show(error.Message);
+            }
+            
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+            try
+            {
             List<CLSProveedor> listaproveedores = new List<CLSProveedor>();
             CLSGestionararchivos Proveedores = new CLSGestionararchivos();
             listaproveedores = Proveedores.cargarproveedores();
@@ -67,6 +77,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             var ProveedoresFiltrados = insumo.FiltrarProveedor(listaproveedores,proveedor);
             dataGridView2.DataSource = null;
             dataGridView2.DataSource = ProveedoresFiltrados;
+            }
+            catch (Exception error)
+            {
+                MessageBox.Show(error.Message);
+            }
         }
 
         private void btnQuitarFiltro_Click(object sender, EventArgs e)

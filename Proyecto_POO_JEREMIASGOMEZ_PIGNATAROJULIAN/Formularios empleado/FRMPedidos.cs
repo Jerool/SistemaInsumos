@@ -30,7 +30,14 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 
         private void button1_Click(object sender, EventArgs e)
         {
-            foreach (var p in ListaProductosPedidos)
+            try
+            {
+                if (ListaProductosPedidos.Count == 0)
+                {
+                    MessageBox.Show("No hay productos ingresados", "Aviso", MessageBoxButtons.OK);
+                    return;
+                }
+                foreach (var p in ListaProductosPedidos)
             {
                 p.Producto.CantidadProductos -= p.CantidadUsadaProductos ;
             }
@@ -57,19 +64,34 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                         sw.WriteLine();
                     sw.WriteLine(nuevoPedido);
                     MessageBox.Show("Se registro el pedido correctamente", "Aviso", MessageBoxButtons.OK);
+
+                    txtDireccion.Text = string.Empty;
+                    numericUpDown1.Value = 0;
+                    cmbProductos.SelectedIndex = 0; 
                 }
             }
             else
             {
                 MessageBox.Show("El archivo no existe");
             }
-            
+
+            }
+            catch (Exception error)
+            {
+                MessageBox.Show(error.Message);
+            }
         }
      
         private void btnAgregarproducto_Click(object sender, EventArgs e)
         {
             try
             {
+                if (string.IsNullOrEmpty(txtDireccion.Text) || cmbProductos.TabIndex == -1 || numericUpDown1.Value == 0)
+                {
+                    MessageBox.Show("Complete todos los campos", "Aviso", MessageBoxButtons.OK);
+                    return;
+                }
+
                 CLSProducto ProductoSeleccionado = (CLSProducto)cmbProductos.SelectedItem;
                 if ((double)numericUpDown1.Value > ProductoSeleccionado.CantidadProductos)
                 {
@@ -91,6 +113,14 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         private void cmbProductos_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (char.IsControl(e.KeyChar) || char.IsDigit(e.KeyChar) || char.IsSymbol(e.KeyChar) || char.IsNumber(e.KeyChar) || char.IsPunctuation(e.KeyChar))
+            {
+                e.Handled = true; // bloquea la tecla
+            }
+        }
+
+        private void txtDireccion_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true; // bloquea la tecla
             }

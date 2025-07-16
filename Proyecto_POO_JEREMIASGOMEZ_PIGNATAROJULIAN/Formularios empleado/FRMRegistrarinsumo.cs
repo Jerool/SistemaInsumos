@@ -29,7 +29,10 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         }
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(txtnombre.Text) || string.IsNullOrEmpty(txtproporcion.Text) || cbmcalidad.SelectedIndex == -1 || cbmproveedor.SelectedIndex == -1 || cbmunidad.SelectedIndex == -1 || numericUpDown1.Value == -1)
+
+            try
+            {
+                if (string.IsNullOrEmpty(txtnombre.Text) || string.IsNullOrEmpty(txtproporcion.Text) || cbmcalidad.SelectedIndex == -1 || cbmproveedor.SelectedIndex == -1 || cbmunidad.SelectedIndex == -1 || numericUpDown1.Value == -1)
             {
                 MessageBox.Show("Complete todos los campos","Aviso",MessageBoxButtons.OK,MessageBoxIcon.Warning);
                 return;
@@ -86,6 +89,12 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             }
             MessageBox.Show("Se ha registrado correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
             actualizarcampos();
+
+            }
+            catch (Exception error)
+            {
+                MessageBox.Show(error.Message);
+            }
 
         }
         private void actualizarcampos()

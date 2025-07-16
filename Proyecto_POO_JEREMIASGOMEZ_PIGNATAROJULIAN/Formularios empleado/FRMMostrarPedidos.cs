@@ -18,7 +18,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         public FRMMostrarPedidos()
         {
             InitializeComponent();
-
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             foreach (string linea in File.ReadAllLines("Pedidos.txt").Skip(1)) // salta encabezado
             {
                 string[] partes = linea.Split(';');

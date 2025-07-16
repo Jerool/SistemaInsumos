@@ -18,11 +18,16 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         public FRMPrincipalProveedor(string nombre, double cuil, string direccion, string telefono, string contrasena)
         {
             InitializeComponent();
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             listainsumos = mostrarinsumos.cargarinsumos();
             CLSProveedor Proveedor = new CLSProveedor(nombre,cuil,direccion,telefono,contrasena);
             var insumosProveedor = Proveedor.MostrarInsumo(listainsumos,cuil,nombre);
             dataGridView1.DataSource = null;
             dataGridView1.DataSource = insumosProveedor;
+            if (insumosProveedor.Count == 0)
+            {
+                MessageBox.Show("El proveedor no tiene insumos registrados", "Aviso", MessageBoxButtons.OK);
+            }
         }
 
     }

@@ -20,7 +20,10 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         }
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(txtDireccion.Text) || string.IsNullOrEmpty(txtnombre.Text) || string.IsNullOrEmpty(txtTelefono.Text) || numericUpDown1.Value == 0)
+            try
+            {
+              
+                if (string.IsNullOrEmpty(txtDireccion.Text) || string.IsNullOrEmpty(txtnombre.Text) || string.IsNullOrEmpty(txtTelefono.Text) || numericUpDown1.Value == 0)
             {
                 MessageBox.Show("Complete todos los campos","Aviso",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
@@ -62,6 +65,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 actualizarcampos();
             }
 
+            }
+            catch (Exception error)
+            {
+                MessageBox.Show(error.Message);
+            }
         }
         private void actualizarcampos()
         {
