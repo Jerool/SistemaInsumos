@@ -54,7 +54,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 CLSProveedor aux = new CLSProveedor(txtnombre.Text, ((double)numericUpDown1.Value), txtDireccion.Text, txtTelefono.Text,txtContraseña.Text);
                 listaproveedores.Add(aux);
                 aux.RegistrarProveedor(txtnombre.Text,numericUpDown1.Value,txtDireccion.Text, txtTelefono.Text, txtContraseña.Text);
-                MessageBox.Show("Se ha registrado correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                CLSDelegadosGlobales.proveedorRegistrado = nombre =>
+                {
+                    MessageBox.Show($"Se ha registrado el proveedor correctamente,{nombre}");
+                };
+                CLSDelegadosGlobales.proveedorRegistrado?.Invoke(".");
                 actualizarcampos();
             }
 

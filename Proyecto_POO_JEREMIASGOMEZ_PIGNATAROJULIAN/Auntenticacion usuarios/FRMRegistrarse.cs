@@ -67,7 +67,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 CLSEmpleadocs aux = new CLSEmpleadocs(txtNombre.Text, txtApellido.Text, txtDNI.Text, txtDireccion.Text, txtTelefono.Text, txtcontraseña.Text);
                 listaempleados.Add(aux);
                 aux.registrarempleado(txtNombre.Text, txtApellido.Text, txtDNI.Text, txtDireccion.Text, txtTelefono.Text,txtcontraseña.Text);
-                MessageBox.Show("Se ha registrado correctamente", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                CLSDelegadosGlobales.empleadoregistrado = nombre123 =>
+                {
+                    MessageBox.Show($"Se ha registrado correctamente {nombre123}");
+                };
+                CLSDelegadosGlobales.empleadoregistrado?.Invoke(".");
                 FRMInicioSesion aux1 = new FRMInicioSesion();
                 aux1.Show();    
                 aux1.Enabled = true;

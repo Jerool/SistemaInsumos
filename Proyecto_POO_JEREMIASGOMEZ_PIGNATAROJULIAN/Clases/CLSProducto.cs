@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 {
-	public class CLSProducto
+	public class CLSProducto : IProducto
 	{
 		private string _Nombre;
 

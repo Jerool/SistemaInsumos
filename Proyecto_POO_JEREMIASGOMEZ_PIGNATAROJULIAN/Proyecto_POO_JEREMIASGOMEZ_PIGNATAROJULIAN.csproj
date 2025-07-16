@@ -69,114 +69,110 @@
     <Compile Include="Clases\CLSProveedor.cs" />
     <Compile Include="Clases\CLSPedidos.cs" />
     <Compile Include="Clases\ProductosPedidos.cs" />
-    <Compile Include="Formularios\FRMInicioSesion.cs">
+    <Compile Include="Auntenticacion usuarios\FRMInicioSesion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMInicioSesion.Designer.cs">
+    <Compile Include="Auntenticacion usuarios\FRMInicioSesion.Designer.cs">
       <DependentUpon>FRMInicioSesion.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMPrincipal.cs">
+    <Compile Include="Clases\CLSDelegadosGlobales.cs" />
+    <Compile Include="Formularios empleado\FRMPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMPrincipal.Designer.cs">
+    <Compile Include="Formularios empleado\FRMPrincipal.Designer.cs">
       <DependentUpon>FRMPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMProducto.cs">
+    <Compile Include="Formularios empleado\FRMProducto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMProducto.Designer.cs">
+    <Compile Include="Formularios empleado\FRMProducto.Designer.cs">
       <DependentUpon>FRMProducto.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMProveedor.cs">
+    <Compile Include="Formularios proveedores\FRMProveedor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMProveedor.Designer.cs">
+    <Compile Include="Formularios proveedores\FRMProveedor.Designer.cs">
       <DependentUpon>FRMProveedor.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMRegistrarinsumo.cs">
+    <Compile Include="Formularios empleado\FRMRegistrarinsumo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMRegistrarinsumo.Designer.cs">
+    <Compile Include="Formularios empleado\FRMRegistrarinsumo.Designer.cs">
       <DependentUpon>FRMRegistrarinsumo.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMRegistrarse.cs">
+    <Compile Include="Auntenticacion usuarios\FRMRegistrarse.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMRegistrarse.Designer.cs">
+    <Compile Include="Auntenticacion usuarios\FRMRegistrarse.Designer.cs">
       <DependentUpon>FRMRegistrarse.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMVerinsumos.cs">
+    <Compile Include="Formularios empleado\FRMVerinsumos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMVerinsumos.Designer.cs">
+    <Compile Include="Formularios empleado\FRMVerinsumos.Designer.cs">
       <DependentUpon>FRMVerinsumos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMVerProductos.cs">
+    <Compile Include="Formularios empleado\FRMVerProductos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMVerProductos.Designer.cs">
+    <Compile Include="Formularios empleado\FRMVerProductos.Designer.cs">
       <DependentUpon>FRMVerProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMVerproveedores.cs">
+    <Compile Include="Formularios empleado\FRMUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMVerproveedores.Designer.cs">
-      <DependentUpon>FRMVerproveedores.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Formularios\FRMUsuario.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Formularios\FRMUsuario.Designer.cs">
+    <Compile Include="Formularios empleado\FRMUsuario.Designer.cs">
       <DependentUpon>FRMUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMPrincipalProveedor.cs">
+    <Compile Include="Formularios proveedores\FRMPrincipalProveedor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMPrincipalProveedor.Designer.cs">
+    <Compile Include="Formularios proveedores\FRMPrincipalProveedor.Designer.cs">
       <DependentUpon>FRMPrincipalProveedor.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FRMPedidos.cs">
+    <Compile Include="Formularios empleado\FRMPedidos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\FRMPedidos.Designer.cs">
+    <Compile Include="Formularios empleado\FRMPedidos.Designer.cs">
       <DependentUpon>FRMPedidos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Interfaces\IEmpleado.cs" />
+    <Compile Include="Interfaces\Iinsumo.cs" />
+    <Compile Include="Interfaces\IProducto.cs" />
+    <Compile Include="Interfaces\IProveedor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Formularios\FRMInicioSesion.resx">
+    <EmbeddedResource Include="Auntenticacion usuarios\FRMInicioSesion.resx">
       <DependentUpon>FRMInicioSesion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMPedidos.resx">
+    <EmbeddedResource Include="Formularios empleado\FRMPedidos.resx">
       <DependentUpon>FRMPedidos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMPrincipal.resx">
+    <EmbeddedResource Include="Formularios empleado\FRMPrincipal.resx">
       <DependentUpon>FRMPrincipal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMPrincipalProveedor.resx">
+    <EmbeddedResource Include="Formularios proveedores\FRMPrincipalProveedor.resx">
       <DependentUpon>FRMPrincipalProveedor.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMProducto.resx">
+    <EmbeddedResource Include="Formularios empleado\FRMProducto.resx">
       <DependentUpon>FRMProducto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMProveedor.resx">
+    <EmbeddedResource Include="Formularios proveedores\FRMProveedor.resx">
       <DependentUpon>FRMProveedor.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMRegistrarinsumo.resx">
+    <EmbeddedResource Include="Formularios empleado\FRMRegistrarinsumo.resx">
       <DependentUpon>FRMRegistrarinsumo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMRegistrarse.resx">
+    <EmbeddedResource Include="Auntenticacion usuarios\FRMRegistrarse.resx">
       <DependentUpon>FRMRegistrarse.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMVerinsumos.resx">
+    <EmbeddedResource Include="Formularios empleado\FRMVerinsumos.resx">
       <DependentUpon>FRMVerinsumos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMVerProductos.resx">
+    <EmbeddedResource Include="Formularios empleado\FRMVerProductos.resx">
       <DependentUpon>FRMVerProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMVerproveedores.resx">
-      <DependentUpon>FRMVerproveedores.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FRMUsuario.resx">
+    <EmbeddedResource Include="Formularios empleado\FRMUsuario.resx">
       <DependentUpon>FRMUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -202,5 +198,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

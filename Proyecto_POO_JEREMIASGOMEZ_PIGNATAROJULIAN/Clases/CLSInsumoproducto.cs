@@ -30,9 +30,6 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			CantidadUsada = cantidadusada;
 		}
 
-		
-
-
 		public override string ToString()
 		{
             return $"{Insumo.Nombre} - {CantidadUsada} {Insumo.Unidad}";

@@ -19,6 +19,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         int LegajoEmpleado = 0;
         string DireccionEmpleado = "";
         int TelefonoEmpleado = 0;
+        delegate void objetodelegado(string msj);
         public FRMPrincipal(string nombre, string apellido, string DNI, int legajo, int telefono, string direccion)
         {
             InitializeComponent();
@@ -63,12 +64,6 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         private void btnlistas_Click(object sender, EventArgs e)
         {
             submenu.Visible = true;
-        }
-
-        private void btnproveedores_Click(object sender, EventArgs e)
-        {
-            submenu.Visible = false;
-            AbrirForm(new FRMVerproveedores());
         }
 
         private void btninsumos_Click(object sender, EventArgs e)

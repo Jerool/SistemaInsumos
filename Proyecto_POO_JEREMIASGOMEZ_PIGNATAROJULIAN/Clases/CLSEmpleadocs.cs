@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 {
-    public class CLSEmpleadocs : CLSPersona
+    public class CLSEmpleadocs : CLSPersona, IEmpleado
     {
 		
 		private string _Direccion;
@@ -36,8 +36,6 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 		}
 
 
-
-
 		public CLSEmpleadocs(string nombre, string apellido, string dni,  string direccion, string telefono, string contraseña) : base(nombre,apellido,dni)
         {
 			Direccion = direccion; 
@@ -46,7 +44,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         }
 
       
-        internal void registrarempleado(string text1, string text2, string text3, string text4, string text5, string contra)
+        public void registrarempleado(string text1, string text2, string text3, string text4, string text5, string contra)
         {
             string path = "Empleados.txt";
             int legajo = 1;
@@ -61,5 +59,6 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                 sw.WriteLine(DNI + ";" + Nombre + ";" + Apellido + ";" + Direccion + ";" + Telefono +";" + legajo + ";" + Contraseña);
             }
         }
+
     }
 }

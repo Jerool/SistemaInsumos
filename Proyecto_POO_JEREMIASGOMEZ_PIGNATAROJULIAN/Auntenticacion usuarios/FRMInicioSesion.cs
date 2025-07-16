@@ -55,6 +55,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                             FRMPrincipal aux = new FRMPrincipal(vl[1], vl[2], vl[0], Convert.ToInt32(vl[5]), Convert.ToInt32(vl[4]), vl[3]);
                             aux.Show();
                             aux.Enabled = true;
+                            CLSDelegadosGlobales.bienvenida = nombre1 =>
+                            {
+                                MessageBox.Show($"Bienvenido, {nombre1}");
+                            };
+                            CLSDelegadosGlobales.bienvenida?.Invoke(vl[1]);
                             return;
                         }
                         linea = sr.ReadLine();
@@ -81,7 +86,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                         {
                             ValidarUsuario = true;
                             this.Hide();
-                            FRMPrincipalProveedor aux1 = new FRMPrincipalProveedor();
+                            FRMPrincipalProveedor aux1 = new FRMPrincipalProveedor(vl1[0],Convert.ToDouble(vl1[1]), vl1[2], vl1[3], vl1[4]);
                             aux1.Show();
                             aux1.Enabled = true;
                             return;

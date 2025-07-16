@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 {
-    public class CLSInsumos
+    public class CLSInsumos : Iinsumo
     {
 		private string _Nombre;
 
@@ -77,7 +77,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			Responsable = responsable;
         }
 
-        internal void registrarinsumo(string text1, double value, string text2, string text3, string text4, string text5, string nombrempleado)
+       public void registrarinsumo(string text1, double value, string text2, string text3, string text4, string text5, string nombrempleado)
         {
             string path = "Insumos.txt";
 			using (FileStream fs = new FileStream(path, FileMode.Append, FileAccess.Write))
@@ -96,5 +96,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             return $"{Nombre};{Unidad};{Cantidad};{Calidad};{Proporcion};{Proveedor};{Responsable}";
         }
 
+        internal List<CLSProveedor> FiltrarProveedor(List<CLSProveedor> listaproveedores, string v)
+        {
+			string ProveedorBuscar = v;
+			var listaProveedoresFiltrada = listaproveedores.Where(i => $"{i.Nombre} - {i.CUIT}" == ProveedorBuscar).ToList();
+            return listaProveedoresFiltrada;
+        }
     }
 }

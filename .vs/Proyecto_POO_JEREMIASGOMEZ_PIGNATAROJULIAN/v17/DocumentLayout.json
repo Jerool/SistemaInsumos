@@ -1,270 +1,238 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\",
+  "WorkspaceRootPath": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|c:\\users\\facun\\source\\repos\\sistemainsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|c:\\users\\facun\\documents\\proyecto_poo_jeremiasgomez_pignatarojulian\\proyecto_poo_jeremiasgomez_pignatarojulian\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipalproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipalproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipalproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipalproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipalproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipalproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clspedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clspedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clspedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsconvertidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsconvertidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsconvertidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsgestionararchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsgestionararchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsgestionararchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsinsumoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsinsumoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsinsumoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\productospedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\productospedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\productospedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsempleadocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsempleadocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\clases\\clsempleadocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmpedidos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmpedidos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmpedidos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmverproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|C:\\Users\\facun\\source\\repos\\SistemaInsumos\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA77AC68-A864-4769-BEC5-8BA531F03E44}|Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.csproj|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSGestionararchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSGestionararchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSGestionararchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmverproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\frmverproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmverproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frminiciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSPersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSPersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSPersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmverinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\frmverinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmverinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmregistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\frmregistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmregistrarinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSConvertidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSConvertidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSConvertidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmverproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\frmverproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmverproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSEmpleadocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSEmpleadocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSEmpleadocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\proyecto_poo_jeremiasgomez_pignatarojulian\\formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -284,22 +252,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FRMPrincipalProveedor.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T17:09:47.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T17:09:47.115Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FRMVerinsumos.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -309,83 +276,78 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FRMInicioSesion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:15:13.827Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-15T17:15:13.827Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FRMInicioSesion.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMInicioSesion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T18:40:05.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T18:40:05.204Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FRMPedidos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:35:08.366Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-21T16:35:08.366Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FRMPedidos.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAowFMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:44:11.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T16:44:11.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FRMPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T20:09:18.462Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-15T20:09:18.462Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FRMProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs",
+              "Title": "FRMProducto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs [Design]",
+              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T00:53:01.064Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FRMProducto.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProducto.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAGcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,22 +358,21 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FRMPrincipalProveedor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs [Design]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipalProveedor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T15:17:39.53Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-20T15:17:39.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "FRMRegistrarinsumo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T00:53:17.754Z"
             },
@@ -419,10 +380,10 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "FRMRegistrarse.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T20:07:04.032Z"
             },
@@ -430,10 +391,10 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "FRMUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMUsuario.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMUsuario.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T00:53:26.85Z"
             },
@@ -441,10 +402,10 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FRMVerinsumos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerinsumos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T00:53:27.86Z"
             },
@@ -452,10 +413,10 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "FRMVerProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T00:53:28.983Z"
             },
@@ -463,10 +424,10 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "FRMVerproveedores.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerproveedores.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerproveedores.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerproveedores.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerproveedores.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerproveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerproveedores.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T00:53:29.607Z"
             },
@@ -474,10 +435,10 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "FRMProveedor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T00:52:24.425Z"
             },
@@ -485,9 +446,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "CLSInsumos.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumos.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumos.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumos.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumos.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAmwFgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -497,9 +458,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "CLSPedidos.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPedidos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPedidos.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPedidos.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPedidos.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPedidos.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -509,9 +470,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "CLSProducto.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProducto.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProducto.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProducto.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProducto.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProducto.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProducto.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAIwCcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -521,9 +482,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "CLSPersona.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPersona.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPersona.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPersona.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPersona.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPersona.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSPersona.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -533,9 +494,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "CLSConvertidor.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSConvertidor.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSConvertidor.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSConvertidor.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSConvertidor.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSConvertidor.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSConvertidor.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwCIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -545,9 +506,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "CLSGestionararchivos.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSGestionararchivos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSGestionararchivos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSGestionararchivos.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSGestionararchivos.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSGestionararchivos.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSGestionararchivos.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -557,9 +518,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "CLSInsumoproducto.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumoproducto.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumoproducto.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumoproducto.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumoproducto.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumoproducto.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSInsumoproducto.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -569,9 +530,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "ProductosPedidos.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\ProductosPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\ProductosPedidos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\ProductosPedidos.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\ProductosPedidos.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\ProductosPedidos.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\ProductosPedidos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -581,9 +542,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "CLSProveedor.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProveedor.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProveedor.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProveedor.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProveedor.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSProveedor.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -593,9 +554,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "CLSEmpleadocs.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSEmpleadocs.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSEmpleadocs.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSEmpleadocs.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSEmpleadocs.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSEmpleadocs.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Clases\\CLSEmpleadocs.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -605,9 +566,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "FRMProveedor.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMProveedor.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowDUAAACSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -617,9 +578,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "FRMRegistrarinsumo.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarinsumo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -629,22 +590,21 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "FRMPedidos.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.Designer.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.Designer.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.Designer.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.Designer.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPedidos.Designer.cs",
               "ViewState": "AgIAAIIAAAAAAAAAAAAIwJMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:49:45.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T16:49:45.656Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "FRMVerProductos.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMVerProductos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -654,22 +614,21 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "FRMPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAIA5wIAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T20:09:19.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:09:19.764Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "FRMRegistrarse.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMRegistrarse.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwB0AAADpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -679,23 +638,22 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "FRMPrincipal.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.Designer.cs",
               "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.Designer.cs",
-              "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\SistemaInsumos\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.Designer.cs",
               "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\FRMPrincipal.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T20:10:48.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:10:48.492Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 65,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\Form1.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\Form1.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Formularios\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T17:12:47.334Z"
             },
@@ -704,9 +662,9 @@
               "DocumentIndex": 35,
               "Title": "FRMPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T00:12:41.852Z"
             },
@@ -715,9 +673,9 @@
               "DocumentIndex": 36,
               "Title": "FRMPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T00:32:17.552Z"
@@ -727,9 +685,9 @@
               "DocumentIndex": 37,
               "Title": "FRMProducto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T20:14:59.227Z"
             },
@@ -738,9 +696,9 @@
               "DocumentIndex": 38,
               "Title": "FRMProducto.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProducto.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAqwE4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T20:35:54.738Z"
@@ -750,9 +708,9 @@
               "DocumentIndex": 39,
               "Title": "CLSGestionararchivos.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSGestionararchivos.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSGestionararchivos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSGestionararchivos.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSGestionararchivos.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSGestionararchivos.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSGestionararchivos.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAkwFQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T20:36:28.606Z"
@@ -762,9 +720,9 @@
               "DocumentIndex": 40,
               "Title": "CLSInsumoproducto.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumoproducto.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumoproducto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumoproducto.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumoproducto.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumoproducto.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumoproducto.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T21:26:54.591Z"
@@ -774,9 +732,9 @@
               "DocumentIndex": 41,
               "Title": "FRMVerProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T18:57:42.036Z"
             },
@@ -785,9 +743,9 @@
               "DocumentIndex": 42,
               "Title": "CLSInsumos.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumos.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumos.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumos.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumos.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSInsumos.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAAwF8AAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T16:35:35.315Z"
@@ -797,9 +755,9 @@
               "DocumentIndex": 34,
               "Title": "CLSProducto.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProducto.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProducto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProducto.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProducto.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProducto.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProducto.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T16:36:22.799Z"
             },
@@ -808,9 +766,9 @@
               "DocumentIndex": 43,
               "Title": "FRMInicioSesion.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T20:57:16.032Z"
             },
@@ -819,9 +777,9 @@
               "DocumentIndex": 44,
               "Title": "FRMInicioSesion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T20:56:18.114Z"
             },
@@ -830,9 +788,9 @@
               "DocumentIndex": 45,
               "Title": "CLSPersona.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSPersona.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSPersona.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSPersona.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSPersona.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSPersona.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSPersona.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T18:13:44.079Z"
@@ -842,9 +800,9 @@
               "DocumentIndex": 46,
               "Title": "CLSProveedor.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProveedor.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProveedor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProveedor.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProveedor.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProveedor.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSProveedor.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAIwDwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T18:04:44.69Z"
@@ -854,9 +812,9 @@
               "DocumentIndex": 47,
               "Title": "FRMVerProductos.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerProductos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T19:03:13.179Z"
@@ -866,9 +824,9 @@
               "DocumentIndex": 48,
               "Title": "FRMVerinsumos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T18:57:21.325Z"
             },
@@ -877,9 +835,9 @@
               "DocumentIndex": 49,
               "Title": "FRMRegistrarinsumo.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T17:25:20.062Z"
             },
@@ -888,9 +846,9 @@
               "DocumentIndex": 50,
               "Title": "FRMRegistrarinsumo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T17:16:31.159Z"
             },
@@ -899,9 +857,9 @@
               "DocumentIndex": 51,
               "Title": "FRMProveedor.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T16:57:09.741Z"
             },
@@ -910,9 +868,9 @@
               "DocumentIndex": 52,
               "Title": "FRMProveedor.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMProveedor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T16:50:57.155Z"
             },
@@ -921,9 +879,9 @@
               "DocumentIndex": 53,
               "Title": "CLSConvertidor.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSConvertidor.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSConvertidor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSConvertidor.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSConvertidor.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSConvertidor.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSConvertidor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T21:48:55.906Z"
@@ -933,9 +891,9 @@
               "DocumentIndex": 54,
               "Title": "FRMVerinsumos.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerinsumos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T19:03:27.614Z"
@@ -945,9 +903,9 @@
               "DocumentIndex": 55,
               "Title": "FRMVerproveedores.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T18:59:26.367Z"
             },
@@ -956,9 +914,9 @@
               "DocumentIndex": 56,
               "Title": "FRMVerproveedores.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMVerproveedores.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T18:56:54.669Z"
             },
@@ -967,9 +925,9 @@
               "DocumentIndex": 57,
               "Title": "FRMRegistrarse.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T21:01:39.18Z"
             },
@@ -978,9 +936,9 @@
               "DocumentIndex": 58,
               "Title": "FRMRegistrarse.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarse.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T21:01:01.205Z"
             },
@@ -989,9 +947,9 @@
               "DocumentIndex": 59,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T18:03:45.263Z"
             },
@@ -1000,9 +958,9 @@
               "DocumentIndex": 60,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T17:46:16.526Z"
             },
@@ -1011,9 +969,9 @@
               "DocumentIndex": 61,
               "Title": "CLSEmpleadocs.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSEmpleadocs.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSEmpleadocs.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSEmpleadocs.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSEmpleadocs.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSEmpleadocs.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\CLSEmpleadocs.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAIwD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T18:16:06.103Z"
@@ -1023,9 +981,9 @@
               "DocumentIndex": 62,
               "Title": "FRMRegistrarinsumo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.Designer.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.Designer.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.Designer.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMRegistrarinsumo.Designer.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAswMEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T17:44:14.585Z"
@@ -1035,9 +993,9 @@
               "DocumentIndex": 63,
               "Title": "FRMPrincipal.Designer.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.Designer.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.Designer.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.Designer.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMPrincipal.Designer.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAswFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T00:33:52.041Z"
@@ -1047,9 +1005,9 @@
               "DocumentIndex": 64,
               "Title": "FRMInicioSesion.Designer.cs",
               "DocumentMoniker": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.Designer.cs",
-              "RelativeDocumentMoniker": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.Designer.cs",
               "ToolTip": "C:\\Users\\facun\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.Designer.cs",
-              "RelativeToolTip": "Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\\FRMInicioSesion.Designer.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAmwCwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T00:10:05.67Z"

@@ -15,12 +15,15 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 
         CLSGestionararchivos mostrarinsumos = new CLSGestionararchivos();
         List<CLSInsumos> listainsumos = new List<CLSInsumos>();
-        public FRMPrincipalProveedor()
+        public FRMPrincipalProveedor(string nombre, double cuil, string direccion, string telefono, string contrasena)
         {
             InitializeComponent();
             listainsumos = mostrarinsumos.cargarinsumos();
+            CLSProveedor Proveedor = new CLSProveedor(nombre,cuil,direccion,telefono,contrasena);
+            var insumosProveedor = Proveedor.MostrarInsumo(listainsumos,cuil,nombre);
             dataGridView1.DataSource = null;
-            dataGridView1.DataSource = listainsumos;
+            dataGridView1.DataSource = insumosProveedor;
         }
+
     }
 }

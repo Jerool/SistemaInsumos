@@ -24,8 +24,6 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.Clases
 			set { _CantidadUsadaProductos = value; }
 		}
 
-		
-
         public ProductosPedidos(CLSProducto producto, double cantidadproductos)
         {
             Producto = producto;

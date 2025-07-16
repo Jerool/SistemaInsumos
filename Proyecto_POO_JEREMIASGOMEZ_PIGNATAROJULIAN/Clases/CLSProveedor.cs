@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -9,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 {
-    public class CLSProveedor
+    public class CLSProveedor : IProveedor
     {
         private string _Nombre; //proveedor tiene nombre 
 
@@ -60,7 +61,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             Contraseña = contraseña;
         }
 
-        internal void RegistrarProveedor(string text1, decimal value, string text2, string txtTelefono, string contraseña)
+        public void RegistrarProveedor(string text1, decimal value, string text2, string txtTelefono, string contraseña)
         {
             string path = "Proveedores.txt";
             using (FileStream fs = new FileStream(path, FileMode.Append, FileAccess.Write))
@@ -75,5 +76,14 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             return $"{Nombre} - {CUIT}";
         }
 
+        internal List<CLSInsumos> MostrarInsumo(List<CLSInsumos> listainsumos, double cuil, string nombre)
+        {
+            string cuilProveedor =Convert.ToString(cuil);
+            string nombreProveedor = nombre;
+
+            var insumofiltrados = listainsumos.Where(i => i.Proveedor == $"{nombreProveedor} - {cuilProveedor}").ToList();
+
+            return insumofiltrados;
+        }
     }
 }

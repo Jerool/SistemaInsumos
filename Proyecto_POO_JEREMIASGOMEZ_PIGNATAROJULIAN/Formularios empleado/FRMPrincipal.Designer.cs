@@ -37,13 +37,8 @@
             this.btnPedido = new System.Windows.Forms.Button();
             this.submenu = new System.Windows.Forms.Panel();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.panel9 = new System.Windows.Forms.Panel();
             this.btnproductos = new System.Windows.Forms.Button();
-            this.panel8 = new System.Windows.Forms.Panel();
             this.btninsumos = new System.Windows.Forms.Button();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.btnproveedores = new System.Windows.Forms.Button();
             this.panel5 = new System.Windows.Forms.Panel();
             this.button5 = new System.Windows.Forms.Button();
             this.panel4 = new System.Windows.Forms.Panel();
@@ -56,12 +51,12 @@
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panelContenedor = new System.Windows.Forms.Panel();
+            this.panel8 = new System.Windows.Forms.Panel();
             this.BarraTitulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnMinimizar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btncerrar)).BeginInit();
             this.MenuVertical.SuspendLayout();
             this.submenu.SuspendLayout();
-            this.panel7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -106,6 +101,7 @@
             this.MenuVertical.BackColor = System.Drawing.Color.Beige;
             this.MenuVertical.Controls.Add(this.panel11);
             this.MenuVertical.Controls.Add(this.btnPedido);
+            this.MenuVertical.Controls.Add(this.panel8);
             this.MenuVertical.Controls.Add(this.submenu);
             this.MenuVertical.Controls.Add(this.panel5);
             this.MenuVertical.Controls.Add(this.button5);
@@ -152,33 +148,21 @@
             // submenu
             // 
             this.submenu.Controls.Add(this.panel6);
-            this.submenu.Controls.Add(this.panel9);
             this.submenu.Controls.Add(this.btnproductos);
-            this.submenu.Controls.Add(this.panel8);
             this.submenu.Controls.Add(this.btninsumos);
-            this.submenu.Controls.Add(this.panel7);
-            this.submenu.Controls.Add(this.btnproveedores);
             this.submenu.Location = new System.Drawing.Point(56, 363);
             this.submenu.Name = "submenu";
-            this.submenu.Size = new System.Drawing.Size(200, 118);
+            this.submenu.Size = new System.Drawing.Size(200, 73);
             this.submenu.TabIndex = 11;
             this.submenu.Visible = false;
             // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.White;
-            this.panel6.Location = new System.Drawing.Point(3, 86);
+            this.panel6.Location = new System.Drawing.Point(0, 38);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(5, 32);
             this.panel6.TabIndex = 13;
-            // 
-            // panel9
-            // 
-            this.panel9.BackColor = System.Drawing.Color.White;
-            this.panel9.Location = new System.Drawing.Point(3, 3);
-            this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(5, 32);
-            this.panel9.TabIndex = 9;
             // 
             // btnproductos
             // 
@@ -189,21 +173,13 @@
             this.btnproductos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btnproductos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnproductos.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnproductos.Location = new System.Drawing.Point(0, 86);
+            this.btnproductos.Location = new System.Drawing.Point(0, 38);
             this.btnproductos.Name = "btnproductos";
             this.btnproductos.Size = new System.Drawing.Size(164, 32);
             this.btnproductos.TabIndex = 10;
             this.btnproductos.Text = "Productos";
             this.btnproductos.UseVisualStyleBackColor = false;
             this.btnproductos.Click += new System.EventHandler(this.btnproductos_Click);
-            // 
-            // panel8
-            // 
-            this.panel8.BackColor = System.Drawing.Color.White;
-            this.panel8.Location = new System.Drawing.Point(3, 44);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(5, 32);
-            this.panel8.TabIndex = 9;
             // 
             // btninsumos
             // 
@@ -214,47 +190,13 @@
             this.btninsumos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btninsumos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btninsumos.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btninsumos.Location = new System.Drawing.Point(0, 44);
+            this.btninsumos.Location = new System.Drawing.Point(3, 0);
             this.btninsumos.Name = "btninsumos";
             this.btninsumos.Size = new System.Drawing.Size(164, 32);
             this.btninsumos.TabIndex = 9;
             this.btninsumos.Text = "Insumos";
             this.btninsumos.UseVisualStyleBackColor = false;
             this.btninsumos.Click += new System.EventHandler(this.btninsumos_Click);
-            // 
-            // panel7
-            // 
-            this.panel7.BackColor = System.Drawing.Color.White;
-            this.panel7.Controls.Add(this.panel10);
-            this.panel7.Location = new System.Drawing.Point(0, 86);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(5, 32);
-            this.panel7.TabIndex = 12;
-            // 
-            // panel10
-            // 
-            this.panel10.BackColor = System.Drawing.Color.White;
-            this.panel10.Location = new System.Drawing.Point(3, 0);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(5, 32);
-            this.panel10.TabIndex = 13;
-            // 
-            // btnproveedores
-            // 
-            this.btnproveedores.BackColor = System.Drawing.Color.Beige;
-            this.btnproveedores.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnproveedores.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.btnproveedores.FlatAppearance.BorderSize = 0;
-            this.btnproveedores.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.btnproveedores.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnproveedores.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnproveedores.Location = new System.Drawing.Point(3, 0);
-            this.btnproveedores.Name = "btnproveedores";
-            this.btnproveedores.Size = new System.Drawing.Size(164, 35);
-            this.btnproveedores.TabIndex = 8;
-            this.btnproveedores.Text = "Proveedores";
-            this.btnproveedores.UseVisualStyleBackColor = false;
-            this.btnproveedores.Click += new System.EventHandler(this.btnproveedores_Click);
             // 
             // panel5
             // 
@@ -402,6 +344,14 @@
             this.panelContenedor.Size = new System.Drawing.Size(1080, 612);
             this.panelContenedor.TabIndex = 2;
             // 
+            // panel8
+            // 
+            this.panel8.BackColor = System.Drawing.Color.White;
+            this.panel8.Location = new System.Drawing.Point(56, 363);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(5, 32);
+            this.panel8.TabIndex = 9;
+            // 
             // FRMPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -419,7 +369,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.btncerrar)).EndInit();
             this.MenuVertical.ResumeLayout(false);
             this.submenu.ResumeLayout(false);
-            this.panel7.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
@@ -444,15 +393,11 @@
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Panel submenu;
-        private System.Windows.Forms.Panel panel9;
-        private System.Windows.Forms.Panel panel8;
-        private System.Windows.Forms.Panel panel10;
         private System.Windows.Forms.Button btnproductos;
         private System.Windows.Forms.Button btninsumos;
-        private System.Windows.Forms.Panel panel7;
-        private System.Windows.Forms.Button btnproveedores;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Panel panel11;
         private System.Windows.Forms.Button btnPedido;
+        private System.Windows.Forms.Panel panel8;
     }
 }
