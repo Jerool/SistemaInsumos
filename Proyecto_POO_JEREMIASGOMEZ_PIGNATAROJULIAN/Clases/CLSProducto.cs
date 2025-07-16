@@ -49,8 +49,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			get { return _Insumoproductos; }
 			set { _Insumoproductos = value; }
 		}
-
-		public CLSProducto(string nombre, string rubro, int precio, List<CLSInsumoproducto> insumoproducto, double cantidadproductos)
+        public CLSProducto()
+        {
+            
+        }
+        public CLSProducto(string nombre, string rubro, int precio, List<CLSInsumoproducto> insumoproducto, double cantidadproductos)
 		{
 			Nombre = nombre;
 			Rubro = rubro;

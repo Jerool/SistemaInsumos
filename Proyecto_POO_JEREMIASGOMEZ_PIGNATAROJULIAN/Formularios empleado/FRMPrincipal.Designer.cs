@@ -35,6 +35,7 @@
             this.MenuVertical = new System.Windows.Forms.Panel();
             this.panel11 = new System.Windows.Forms.Panel();
             this.btnPedido = new System.Windows.Forms.Button();
+            this.panel8 = new System.Windows.Forms.Panel();
             this.submenu = new System.Windows.Forms.Panel();
             this.panel6 = new System.Windows.Forms.Panel();
             this.btnproductos = new System.Windows.Forms.Button();
@@ -51,7 +52,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panelContenedor = new System.Windows.Forms.Panel();
-            this.panel8 = new System.Windows.Forms.Panel();
+            this.btnPedidos = new System.Windows.Forms.Button();
+            this.panel7 = new System.Windows.Forms.Panel();
             this.BarraTitulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnMinimizar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btncerrar)).BeginInit();
@@ -99,6 +101,8 @@
             // MenuVertical
             // 
             this.MenuVertical.BackColor = System.Drawing.Color.Beige;
+            this.MenuVertical.Controls.Add(this.panel7);
+            this.MenuVertical.Controls.Add(this.btnPedidos);
             this.MenuVertical.Controls.Add(this.panel11);
             this.MenuVertical.Controls.Add(this.btnPedido);
             this.MenuVertical.Controls.Add(this.panel8);
@@ -145,6 +149,14 @@
             this.btnPedido.UseVisualStyleBackColor = false;
             this.btnPedido.Click += new System.EventHandler(this.btnPedido_Click);
             // 
+            // panel8
+            // 
+            this.panel8.BackColor = System.Drawing.Color.White;
+            this.panel8.Location = new System.Drawing.Point(56, 363);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(5, 32);
+            this.panel8.TabIndex = 9;
+            // 
             // submenu
             // 
             this.submenu.Controls.Add(this.panel6);
@@ -152,7 +164,7 @@
             this.submenu.Controls.Add(this.btninsumos);
             this.submenu.Location = new System.Drawing.Point(56, 363);
             this.submenu.Name = "submenu";
-            this.submenu.Size = new System.Drawing.Size(200, 73);
+            this.submenu.Size = new System.Drawing.Size(200, 108);
             this.submenu.TabIndex = 11;
             this.submenu.Visible = false;
             // 
@@ -173,9 +185,9 @@
             this.btnproductos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btnproductos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnproductos.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnproductos.Location = new System.Drawing.Point(0, 38);
+            this.btnproductos.Location = new System.Drawing.Point(0, 35);
             this.btnproductos.Name = "btnproductos";
-            this.btnproductos.Size = new System.Drawing.Size(164, 32);
+            this.btnproductos.Size = new System.Drawing.Size(164, 35);
             this.btnproductos.TabIndex = 10;
             this.btnproductos.Text = "Productos";
             this.btnproductos.UseVisualStyleBackColor = false;
@@ -344,13 +356,30 @@
             this.panelContenedor.Size = new System.Drawing.Size(1080, 612);
             this.panelContenedor.TabIndex = 2;
             // 
-            // panel8
+            // btnPedidos
             // 
-            this.panel8.BackColor = System.Drawing.Color.White;
-            this.panel8.Location = new System.Drawing.Point(56, 363);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(5, 32);
-            this.panel8.TabIndex = 9;
+            this.btnPedidos.BackColor = System.Drawing.Color.Beige;
+            this.btnPedidos.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnPedidos.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnPedidos.FlatAppearance.BorderSize = 0;
+            this.btnPedidos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.btnPedidos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPedidos.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPedidos.Location = new System.Drawing.Point(56, 439);
+            this.btnPedidos.Name = "btnPedidos";
+            this.btnPedidos.Size = new System.Drawing.Size(164, 32);
+            this.btnPedidos.TabIndex = 14;
+            this.btnPedidos.Text = "Pedidos";
+            this.btnPedidos.UseVisualStyleBackColor = false;
+            this.btnPedidos.Click += new System.EventHandler(this.btnPedidos_Click);
+            // 
+            // panel7
+            // 
+            this.panel7.BackColor = System.Drawing.Color.White;
+            this.panel7.Location = new System.Drawing.Point(56, 439);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(5, 32);
+            this.panel7.TabIndex = 14;
             // 
             // FRMPrincipal
             // 
@@ -399,5 +428,7 @@
         private System.Windows.Forms.Panel panel11;
         private System.Windows.Forms.Button btnPedido;
         private System.Windows.Forms.Panel panel8;
+        private System.Windows.Forms.Panel panel7;
+        private System.Windows.Forms.Button btnPedidos;
     }
 }

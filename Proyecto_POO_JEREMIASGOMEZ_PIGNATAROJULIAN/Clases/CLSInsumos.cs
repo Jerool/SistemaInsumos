@@ -65,8 +65,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			set { _Responsable = value; }
 		}
 
-
-		public CLSInsumos(string nombre, double cantidad, string unidad, string calidad, string proporcion, string proveedor, string responsable)
+        public CLSInsumos(string nombre, double cantidad, string unidad, string calidad, string proporcion, string proveedor, string responsable)
         {
             Nombre = nombre;
 			Cantidad = cantidad;

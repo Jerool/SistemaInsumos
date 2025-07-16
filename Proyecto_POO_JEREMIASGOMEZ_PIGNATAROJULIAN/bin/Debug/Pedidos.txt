@@ -1,2 +1,6 @@
-Cantidad;Direccion;Productos/Cantidad;ID
-11;ezeiza;Galletitas Saladas;2
+Direccion;Productos|Cantidad;ID
+ezeiza;Galletitas Saladas | 1;2
+monte grande;Galletitas Saladas | 2,Galletitas vaillina | 2;3
+LOMAS;Galletitas Saladas | 2;4
+Capital;Galletitas Saladas | 2;5
+Palermo;Galletitas vaillina | 2;6

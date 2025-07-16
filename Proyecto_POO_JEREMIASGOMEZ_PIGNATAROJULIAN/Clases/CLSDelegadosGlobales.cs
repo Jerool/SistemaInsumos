@@ -16,7 +16,5 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 
         public delegate void ProveedorRegistrado(string asdsad);
         public static ProveedorRegistrado proveedorRegistrado;
-
-
     }
 }

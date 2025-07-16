@@ -1,5 +1,5 @@
 Nombre;Rubro;Precio;Insumousados;CantidadProductos
-Galletitas Saladas;Snacks;700;Harina de trigo|0,8|KILOGRAMOS;10
-Galletitas vaillina;Snacks;300;Harina de trigo|100|KILOGRAMOS:Azucar Refinada|1|KILOGRAMOS:Agus Mineral|25|LITROS;100
+Galletitas Saladas;Snacks;700;Harina de trigo|0,8|KILOGRAMOS;4
+Galletitas vaillina;Snacks;300;Harina de trigo|100|KILOGRAMOS:Azucar Refinada|1|KILOGRAMOS:Agus Mineral|25|LITROS;96
 Agua saborizada;Bebida;100;Agus Mineral|100|LITROS;100
 Pepas;Gastronomico;100;Harina de trigo|0,5|KILOGRAMOS;10

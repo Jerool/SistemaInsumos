@@ -11,13 +11,7 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 {
 	public class CLSPedidos
 	{
-		private int _Cantidad;
-		public int Cantidad
-		{
-			get { return _Cantidad; }
-			set { _Cantidad = value; }
-		}
-
+		
 		private string _Direccion;
 
 		public string Direccion
@@ -42,19 +36,27 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 			set { _ID = value; }
 		}
 
-		public CLSPedidos(int cantidad, string direccion, List<ProductosPedidos> listaproducto)
+		public CLSPedidos(string direccion, List<ProductosPedidos> listaproducto, int id)
         {
-			Cantidad = cantidad;
 			Direccion = direccion;
 			ListaProductos = listaproducto;
+			ID = id;
         }
 
 
 		public override string ToString()
         {
             string ProductosUsados = string.Join(",", ListaProductos.Select(p =>$"{p.Producto.Nombre} | {p.CantidadUsadaProductos}"));
-            return $"{Cantidad};{Direccion};{ProductosUsados}";
+            return $"{Direccion};{ProductosUsados};{ID}";
 		}
+
+        public string ProductosResumen
+        {
+            get
+            {
+                return string.Join(", ", ListaProductos.Select(p => $"{p.Producto.Nombre} x {p.CantidadUsadaProductos}"));
+            }
+        }
 
     }
 }

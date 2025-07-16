@@ -48,12 +48,14 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             if (File.Exists("Pedidos.txt"))
             {
                 id = File.ReadAllLines("Pedidos.txt").Length + 1;
-                CLSPedidos nuevoPedido = new CLSPedidos((int)numericUpDown1.Value, txtDireccion.Text, new List<ProductosPedidos>(ListaProductosPedidos));
+                CLSPedidos nuevoPedido = new CLSPedidos(txtDireccion.Text, new List<ProductosPedidos>(ListaProductosPedidos),id);
                 ListaPedidos.Add(nuevoPedido);
                 using (FileStream fs = new FileStream("Pedidos.txt", FileMode.Append, FileAccess.Write))
                 using (StreamWriter sw = new StreamWriter(fs))
                 {
-                    sw.WriteLine(nuevoPedido + ";" + id);
+                    if (new FileInfo("Pedidos.txt").Length > 0)
+                        sw.WriteLine();
+                    sw.WriteLine(nuevoPedido);
                     MessageBox.Show("Se registro el pedido correctamente", "Aviso", MessageBoxButtons.OK);
                 }
             }

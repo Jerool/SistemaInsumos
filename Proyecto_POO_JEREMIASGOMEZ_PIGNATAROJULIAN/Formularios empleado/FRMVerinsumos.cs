@@ -20,6 +20,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         public FRMVerinsumos()
         {
             InitializeComponent();
+            ActualizarDatas();
+        }
+
+        private void ActualizarDatas()
+        {
             listainsumos = mostrarinsumos.cargarinsumos();
             dataGridView1.DataSource = null;
             dataGridView1.DataSource = listainsumos;
@@ -62,6 +67,11 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             var ProveedoresFiltrados = insumo.FiltrarProveedor(listaproveedores,proveedor);
             dataGridView2.DataSource = null;
             dataGridView2.DataSource = ProveedoresFiltrados;
+        }
+
+        private void btnQuitarFiltro_Click(object sender, EventArgs e)
+        {
+            ActualizarDatas();
         }
     }
 }

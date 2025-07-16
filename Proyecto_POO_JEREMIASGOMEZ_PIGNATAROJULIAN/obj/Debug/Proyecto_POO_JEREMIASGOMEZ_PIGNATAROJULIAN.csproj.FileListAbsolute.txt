@@ -53,3 +53,4 @@ C:\Users\facun\Source\Repos\SistemaInsumos\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJ
 C:\Users\facun\Source\Repos\SistemaInsumos\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\obj\Debug\Proyecto.3C4F29D2.Up2Date
 C:\Users\facun\Source\Repos\SistemaInsumos\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\obj\Debug\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.exe
 C:\Users\facun\Source\Repos\SistemaInsumos\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\obj\Debug\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.pdb
+C:\Users\facun\Source\Repos\SistemaInsumos\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN\obj\Debug\Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN.FRMMostrarPedidos.resources

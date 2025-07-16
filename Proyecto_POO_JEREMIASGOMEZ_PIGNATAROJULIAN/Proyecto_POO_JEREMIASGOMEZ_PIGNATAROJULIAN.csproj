@@ -136,6 +136,12 @@
     <Compile Include="Formularios empleado\FRMPedidos.Designer.cs">
       <DependentUpon>FRMPedidos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios empleado\FRMMostrarPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios empleado\FRMMostrarPedidos.Designer.cs">
+      <DependentUpon>FRMMostrarPedidos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Interfaces\IEmpleado.cs" />
     <Compile Include="Interfaces\Iinsumo.cs" />
     <Compile Include="Interfaces\IProducto.cs" />
@@ -174,6 +180,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios empleado\FRMUsuario.resx">
       <DependentUpon>FRMUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios empleado\FRMMostrarPedidos.resx">
+      <DependentUpon>FRMMostrarPedidos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

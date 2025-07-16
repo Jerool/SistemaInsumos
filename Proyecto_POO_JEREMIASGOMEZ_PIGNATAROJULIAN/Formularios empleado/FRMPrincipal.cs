@@ -122,5 +122,10 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         {
             AbrirForm(new FRMPedidos());
         }
+
+        private void btnPedidos_Click(object sender, EventArgs e)
+        {
+            AbrirForm(new FRMMostrarPedidos());
+        }
     }
 }
