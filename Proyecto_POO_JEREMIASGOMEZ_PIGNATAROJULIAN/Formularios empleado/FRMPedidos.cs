@@ -63,11 +63,14 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
                     if (new FileInfo("Pedidos.txt").Length > 0)
                         sw.WriteLine();
                     sw.WriteLine(nuevoPedido);
-                    MessageBox.Show("Se registro el pedido correctamente", "Aviso", MessageBoxButtons.OK);
-
-                    txtDireccion.Text = string.Empty;
-                    numericUpDown1.Value = 0;
-                    cmbProductos.SelectedIndex = 0; 
+                        CLSDelegadosGlobales.pedidoRegistrado = nombre =>
+                        {
+                            MessageBox.Show($"Se ha registrado el pedido correctamente,{nombre}");
+                        };
+                        CLSDelegadosGlobales.pedidoRegistrado?.Invoke(".");
+                        txtDireccion.Text = string.Empty;
+                        numericUpDown1.Value = 0;
+                        cmbProductos.SelectedIndex = 0; 
                 }
             }
             else

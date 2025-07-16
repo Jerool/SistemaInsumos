@@ -66,12 +66,6 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
             submenu.Visible = true;
         }
 
-        private void btninsumos_Click(object sender, EventArgs e)
-        {
-            submenu.Visible = false;
-            AbrirForm(new FRMVerinsumos());
-        }
-
         private void btnproductos_Click(object sender, EventArgs e)
         {
             submenu.Visible = false;
@@ -125,7 +119,19 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
 
         private void btnPedidos_Click(object sender, EventArgs e)
         {
+            submenu.Visible = false;
             AbrirForm(new FRMMostrarPedidos());
+        }
+
+        private void btninsumos_Click(object sender, EventArgs e)
+        {
+            submenu.Visible = false;
+            AbrirForm(new FRMVerinsumos());
+        }
+
+        private void panel8_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

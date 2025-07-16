@@ -11,10 +11,13 @@ namespace Proyecto_POO_JEREMIASGOMEZ_PIGNATAROJULIAN
         public delegate void Bienvenida(string nombre);
         public static Bienvenida bienvenida;
 
-        public delegate void EmpleadoRegistrado(string asdsadas);
+        public delegate void EmpleadoRegistrado(string b);
         public static EmpleadoRegistrado empleadoregistrado;
 
-        public delegate void ProveedorRegistrado(string asdsad);
+        public delegate void ProveedorRegistrado(string v);
         public static ProveedorRegistrado proveedorRegistrado;
+
+        public delegate void PedidoRegistrado(string a);
+        public static PedidoRegistrado pedidoRegistrado;
     }
 }
